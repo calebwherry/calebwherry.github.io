@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            calebwherry.com
+title:            calebwherry.github.io
 locale:           en_US
 url:              
 
@@ -27,9 +27,9 @@ kramdown:
 # Site owner
 owner:
   name: J. Caleb Wherry
-  avatar: bio-photo.jpg
-  bio: "Engineer. Scientist. Musician."
-  email: 
+  avatar: bio-photo-1.jpg
+  bio: "Scientist. Engineer. Musician."
+  email: caleb@calebwherry.com
   disqus-shortname: 
   twitter: calebwherry
   facebook: calebwherry
