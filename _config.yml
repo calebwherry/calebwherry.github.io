@@ -2,7 +2,8 @@
 
 title:            calebwherry.github.io
 locale:           en_US
-url:              
+url:              http://127.0.0.1:4000
+#url:              http://calebwherry.github.io
 
 
 # Jekyll configuration
@@ -27,22 +28,22 @@ kramdown:
 # Site owner
 owner:
   name: "J. Caleb Wherry"
-  avatar: "bio-photo-1.jpg"
+  avatar: bio-photo-1.jpg
   bio: "Scientist. Engineer. Musician."
   email: caleb@calebwherry.com
   disqus-shortname: vivalascience
-  twitter:
-  facebook:
+  twitter: calebwherry
+  facebook: calebwherry
   google:
-    plus:
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github:
+    plus: calebwherry
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: calebwherry
   stackoverflow:
-  linkedin:
+  linkedin: calebwherry
   xing: #username
   instagram: #username
   lastfm: #username
