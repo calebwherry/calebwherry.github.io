@@ -1,0 +1,49 @@
+---
+layout: post
+title: Embedded Code Test
+date: 2013-09-25 18:59:04.000000000 -04:00
+categories:
+- Programming
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  _syntaxhighlighter_encoded: '1'
+  ect-template-is-public: ''
+  _edit_last: '1'
+  dsq_thread_id: '2088566133'
+  _googl_shortlink: http://goo.gl/fTcTSl
+author:
+  login: caleb
+  email: calebwherry@gmail.com
+  display_name: caleb
+  first_name: ''
+  last_name: ''
+excerpt: !ruby/object:Hpricot::Doc
+  options: {}
+---
+<p>I just installed a new plugin for embedding code into my posts. I had to do some edits to my custom Wordpress theme so here goes nothing:</p>
+<p>[code language="cpp" highlight="9,23,24"]<br />
+// Here are some comments.<br />
+// They are pretty awesome, right?</p>
+<p>// And some nice whitespace above, let's see how that comes out.<br />
+// Also, what about a reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaallly long line.<br />
+// Alright, looks good. Let's do some syntax highlighting, should be C++ since I used the cpp tags...</p>
+<p>namespace matrix {</p>
+<p>  class Matrix {</p>
+<p>    private:<br />
+      int rowSize;<br />
+      int colSize;</p>
+<p>    public:<br />
+      Matrix(): rowSize(0), colSize(0)<br />
+      {<br />
+         // Do some stuff...<br />
+      }</p>
+<p>      int getRowSize() { return rowSize; };<br />
+      int getColSize() { return colSize; };</p>
+<p>      virtual ~Matrix();<br />
+  };</p>
+<p>} // End matrix namespace<br />
+[/code]</p>
+<p>And that about sums it up! Looks pretty good I think. I highlighted lines 9, 23, and 24 which is neat. On ChromeOS, as I add more and more lines, there is some weird offset that gets worse and worse SO that after about 30 lines, the numbering is off by a whole line. Might work on that at some point but not now.</p>
