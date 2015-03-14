@@ -12,6 +12,7 @@ tags:
 - C++11
 - C++14
 status: publish
+comments: true
 excerpt: CppCon talks.
 ---
 

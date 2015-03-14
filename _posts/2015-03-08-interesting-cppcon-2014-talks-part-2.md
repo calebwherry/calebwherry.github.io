@@ -13,6 +13,7 @@ tags:
 - C++14
 status: draft
 published: false
+comments: true
 excerpt: CppCon Videos
 ---
 
