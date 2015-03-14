@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: J. Caleb Wherry
-  avatar: bio-photo-1.jpg
+  name: "J. Caleb Wherry"
+  avatar: "bio-photo-1.jpg"
   bio: "Scientist. Engineer. Musician."
   email: caleb@calebwherry.com
-  disqus-shortname: Viva ls Science 
-  twitter: calebwherry
-  facebook: calebwherry
+  disqus-shortname: vivalascience
+  twitter:
+  facebook:
   google:
     plus:
     analytics: 
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: calebwherry
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: calebwherry
+  github:
+  stackoverflow:
+  linkedin:
   xing: #username
   instagram: #username
   lastfm: #username

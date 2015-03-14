@@ -1,10 +1,10 @@
 # Site navigation links
 
 - title: Blog
-  url: /posts/
+  url: "/posts/"
 
 - title: Research
-  url: /research/
+  url: "/research/"
 
 - title: Library
-  url: /library/
+  url: "/library/"
