@@ -3,14 +3,13 @@ layout: page
 title: Research
 tags: [research]
 modified: 2015-03-14
-comments: true
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## Research Interests
+### Research Interests
 
 * Co-design for Next-Generation Heterogeneous Systems
 * Quantum Algorithms
@@ -20,7 +19,7 @@ image:
 * Quantum Information Theory
 * Foundations of Quantum Theory
 
-## Research Projects
+### Research Projects
 
 * Computational & Topological Optimization Techniques In Genetic Algorithms
 * Shor's Quantum Factoring Algorithm
