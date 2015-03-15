@@ -3,6 +3,7 @@ layout: page
 title: Research
 tags: [research]
 modified: 2015-03-14
+share: off
 image:
   feature: main-banner-2.jpg
 ---

@@ -5,6 +5,7 @@ date: 2015-03-14
 modified: 2015-03-14
 excerpt: Library
 tags: [library]
+share: off
 image:
   feature: main-banner-2.jpg
 ---
