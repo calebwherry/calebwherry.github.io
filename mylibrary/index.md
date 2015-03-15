@@ -6,7 +6,7 @@ modified: 2015-03-14
 excerpt: Library
 tags: [library]
 image:
-  feature:
+  feature: main-banner-2.jpg
 ---
 
 <iframe src="http://connect.collectorz.com/m/users/meaganandcaleb/books/view?viewCollection=all&viewType=cover"

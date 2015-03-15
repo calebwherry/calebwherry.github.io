@@ -4,9 +4,7 @@ title: Research
 tags: [research]
 modified: 2015-03-14
 image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: main-banner-2.jpg
 ---
 
 ### Research Interests
