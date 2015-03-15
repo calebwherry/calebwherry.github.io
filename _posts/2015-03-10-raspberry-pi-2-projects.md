@@ -8,6 +8,8 @@ status: publish
 categories: [Technology]
 tags: ["Raspberry PI 2"]
 comments: true
+image:
+	feature: main-banner-1.jpg
 ---
 
 <figure>
