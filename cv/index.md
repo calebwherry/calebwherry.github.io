@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "CV"
+title: "Curriculum Vitae"
 date: 2015-3-14
 modified: 2015-03-14
 excerpt: CV.
