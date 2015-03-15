@@ -9,10 +9,10 @@ image:
   creditlink: #http://lewatonline.com/wp-content/uploads/2015/02/Slider-Final1-1900x500.jpg
 ---
 
-## Welcome!
+## Welcome
 
-Welcome to my site! You will find various items here related to my research, career, and hobbies.
+Welcome to my site! You will find various items here related to my research, career, and hobbies. I try and post as often as life permits on my blog *Viva la Science* about lots of different topics: software, technology, physics, mathematics, etc. Feedback is always welcome so comment away!
 
-I am currently a Senior Software Engineer at Nexidia, Inc and also a graudate student in Computer Science at Georgia Institute of Technology.
+I am currently a Senior Software Engineer at Nexidia, Inc and a graduate student in Computer Science at Georgia Institute of Technology.
 
-Below you will find the most recent posts from my blog: Viva la Science.
+Feel free to contact me by any means from the left!
