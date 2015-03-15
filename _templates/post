@@ -1,9 +1,14 @@
 ---
-layout: {{ layout }}
-title: {{ title }}
-modified:
-categories: {{ dir }}
-excerpt:
+layout: post
+title: ""
+excerpt: ""
+date: XXXX-XX-XX
+modified: XXXX-XX-XX
+status:
+published:
+comments: true
+share: true
+categories: []
 tags: []
 image:
   feature:

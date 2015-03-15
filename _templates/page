@@ -5,6 +5,8 @@ date: {{ date }}
 modified:
 excerpt:
 tags: []
+share: off
+comments: off
 image:
   feature: 
 ---
