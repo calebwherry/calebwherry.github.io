@@ -17,7 +17,7 @@ comments: true
 ---
 
 <figure>
-  <img src="/assets/tour_of_cpp.png">
+  <img src="/images/tour_of_cpp.png">
   <figcaption>ISBN-13: 978-0321958310</figcaption>
 </figure>
 

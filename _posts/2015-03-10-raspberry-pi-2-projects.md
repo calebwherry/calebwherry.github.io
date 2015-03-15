@@ -11,7 +11,7 @@ comments: true
 ---
 
 <figure>
-	<img src="/assets/raspberry_pi_2.jpg">
+	<img src="/images/raspberry_pi_2.jpg">
 	<figcaption>Raspberry Pi 2 bare minimum.</figcaption>
 </figure>
 

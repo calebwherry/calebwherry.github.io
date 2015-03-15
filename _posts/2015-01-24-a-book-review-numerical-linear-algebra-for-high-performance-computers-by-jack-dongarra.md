@@ -16,7 +16,7 @@ comments: true
 ---
 
 <figure>
-	<img src="/assets/numerical-linear-algebra_dongarra.jpg">
+	<img src="/images/numerical-linear-algebra_dongarra.jpg">
 	<figcaption>ISBN-13: 978-0-898-71428-9</figcaption>
 </figure>
 

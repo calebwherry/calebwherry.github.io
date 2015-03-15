@@ -15,7 +15,7 @@ excerpt: Book review.
 ---
 
 <figure>
-  <img src="/assets/wild_seed.jpg">
+  <img src="/images/wild_seed.jpg">
   <figcaption>ISBN-13: 978-0446676977</figcaption>
 </figure>
 
