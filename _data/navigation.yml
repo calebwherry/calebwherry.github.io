@@ -3,8 +3,8 @@
 - title: Home
   url: "/"
 
-- title: Blog
-  url: "/posts/"
+- title: "Blog: Viva la Science"
+  url: "/blog/"
 
 - title: Research
   url: "/research/"
