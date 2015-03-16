@@ -16,7 +16,6 @@ image:
 * Computational Complexity Theory
 * Agile Software Engineering Methodologies
 * Quantum Information Theory
-* Foundations of Quantum Theory
 
 ### Projects
 
