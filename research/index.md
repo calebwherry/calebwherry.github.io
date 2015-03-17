@@ -8,6 +8,8 @@ image:
   feature: main-banner-2.jpg
 ---
 
+$$ \phi $$
+
 ### Interests
 
 * Co-design for Next-Generation Heterogeneous Systems
@@ -18,15 +20,6 @@ image:
 * Quantum Information Theory
 
 ### Projects
-
-<div id="accordion">
-
-  <h6>What?!</h6>
-  <div>
-  Yes.
-  </div>
-
-</div>
 
 #### Computational & Topological Optimization Techniques In Genetic Algorithms
 
