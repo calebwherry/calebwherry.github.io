@@ -8,8 +8,6 @@ image:
   feature: main-banner-2.jpg
 ---
 
-$$ \phi $$
-
 ### Interests
 
 * Co-design for Next-Generation Heterogeneous Systems
