@@ -19,6 +19,15 @@ image:
 
 ### Projects
 
+<div id="accordion">
+
+  <h6>What?!</h6>
+  <div>
+  Yes.
+  </div>
+
+</div>
+
 #### Computational & Topological Optimization Techniques In Genetic Algorithms
 
 This project is on-going and contains many different aspects. Most of the parts are in collaboration with <a href="http://www.robertdfrench.me">Robert D. French</a>
