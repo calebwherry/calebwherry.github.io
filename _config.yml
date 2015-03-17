@@ -8,7 +8,7 @@ url:              http://calebwherry.github.io
 
 # Jekyll configuration
 
-permalink:   /:year/:month/:day/:title/
+permalink:   /blog//:year/:month/:day/:title/
 markdown:    kramdown
 highlighter: pygments
 sass:
