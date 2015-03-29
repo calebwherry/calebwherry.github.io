@@ -11,8 +11,8 @@ image:
 
 ## Welcome
 
-Welcome to my site! You will find various items here related to my research, career, and hobbies. I try and post as often as life permits on my blog *Viva la Science* about lots of different topics: software, technology, physics, mathematics, etc. Feedback is always welcome so comment away!
+Welcome to my site! You will find various items here related to my research, career, and hobbies. I try and post as often as life permits on my blog [*Viva la Science*](blog) about lots of different topics: software, technology, physics, mathematics, etc. Feedback is always welcome so comment away!
 
-I am currently a Senior Software Engineer at Nexidia, Inc and a graduate student in Computer Science at Georgia Institute of Technology.
+I am currently a Senior Software Engineer at [Nexidia, Inc.](http://www.nexidia.com) and a graduate student in Computer Science at the Georgia Institute of Technology.
 
 Feel free to contact me by any means from the left!
