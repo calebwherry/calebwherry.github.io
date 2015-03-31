@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Premature Optimization
-date: 2015-03-05
-modified: 2015-03-16
+title: "Premature Optimization"
+date: 30-03-2015
+modified:
 categories:
 - Computer Science
 - Programming
