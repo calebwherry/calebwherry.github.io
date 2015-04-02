@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Technobabble"
-excerpt: "Funny talk featuring technobabble"
 date: 2014-04-07
 status: publish
 comments: true

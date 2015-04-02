@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Book Review: Numerical Linear Algebra for High-Performance Computers by Jack Dongarra"
-excerpt: "Book review."
 date: 2015-01-24
 status: publish
 comments: true

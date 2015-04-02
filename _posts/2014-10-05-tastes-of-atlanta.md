@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Tastes of Atlanta"
-excerpt: "Reviews of places to go/eat in the ATL."
 date: 2014-10-05
 status: publish
 comments: true

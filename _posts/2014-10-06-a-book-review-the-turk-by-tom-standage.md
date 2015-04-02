@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Book Review: The Turk by Tom Standage"
-excerpt: "Book reveiw."
 date: 2014-10-06
 status: publish
 comments: true

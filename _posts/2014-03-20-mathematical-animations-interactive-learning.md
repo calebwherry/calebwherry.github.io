@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Mathematical Animations & Interactive Learning"
-excerpt: "Thoughts on mathematical teaching tools."
 date: 2014-03-20
 status: publish
 comments: true

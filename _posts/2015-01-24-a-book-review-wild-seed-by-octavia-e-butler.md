@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Book Review: Wild Seed by Octavia E. Butler"
-excerpt: "Book review."
 date: 2015-01-24
 status: publish
 comments: true

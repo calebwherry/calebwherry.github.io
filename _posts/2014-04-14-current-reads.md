@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Current Reads"
-excerpt: "Books I am currently reading."
 date: 2014-04-14
 status: publish
 comments: true

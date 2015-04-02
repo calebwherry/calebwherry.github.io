@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Google & Google Products: A Quick Personal Audit"
-excerpt: "Google is awesome and I lots of their stuff."
 date: 2014-02-24
 status: publish
 comments: true

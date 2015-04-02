@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Modern C++ - Great Talk by Herb Sutter"
-excerpt: "Great talk by a C++ master."
 date: 2014-04-09
 status: publish
 comments: true

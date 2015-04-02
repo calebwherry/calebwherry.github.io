@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "A Book Review: A Tour of C++ by Bjarne Stroustrup"
-excerpt: "Book review."
 date: 2015-03-05
 status: publish
 comments: true

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Interesting CppCon 2014 Talks - Part 1"
-excerpt: "CppCon 2014 talks."
 date: 2015-01-24
 status: publish
 comments: true
