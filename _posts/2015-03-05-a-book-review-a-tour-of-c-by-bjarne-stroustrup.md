@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'A Book Review: A Tour of C++ by Bjarne Stroustrup'
+title: "A Book Review: A Tour of C++ by Bjarne Stroustrup"
+excerpt: "Book review."
 date: 2015-03-05
-modified: 2015-03-14
+status: publish
+comments: true
+share: true
 categories:
 - Book Reviews
 - Books
@@ -10,10 +13,8 @@ categories:
 tags:
 - C++
 - C++11
-status: publish
-excerpt: Book review.
-share: true
-comments: true
+image:
+  feature: main-banner-2.jpg
 ---
 
 <figure>

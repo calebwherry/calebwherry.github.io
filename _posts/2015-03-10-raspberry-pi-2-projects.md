@@ -3,11 +3,15 @@ layout: post
 title: "Raspberry Pi 2 - Projects"
 excerpt: "Raspberry Pi 2 projects I want to tackle."
 date: 2015-03-10
-modified: 2015-03-14
 status: publish
-categories: [Technology]
-tags: ["Raspberry PI 2"]
 comments: true
+share: true
+categories:
+- Technology
+tags:
+- "Raspberry PI 2"
+image:
+  feature: main-banner-2.jpg
 ---
 
 <figure>

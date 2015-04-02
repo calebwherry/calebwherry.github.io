@@ -1,17 +1,18 @@
 ---
 layout: post
 title: "A Book Review: Wild Seed by Octavia E. Butler"
+excerpt: "Book review."
 date: 2015-01-24
-modified: 2015-03-14
+status: publish
+comments: true
+share: true
 categories:
 - Book Reviews
 - Books
 tags:
 - Fiction
-status: publish
-published: true
-comments: true
-excerpt: Book review.
+image:
+  feature: main-banner-2.jpg
 ---
 
 <figure>

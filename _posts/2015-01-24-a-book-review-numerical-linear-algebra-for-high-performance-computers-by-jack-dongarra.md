@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "A Book Review: Numerical Linear Algebra for High-Performance Computers by Jack Dongarra"
+excerpt: "Book review."
 date: 2015-01-24
-modified: 2015-03-14
+status: publish
+comments: true
+share: true
 categories:
 - Book Reviews
 - Computer Science
@@ -10,9 +13,8 @@ categories:
 tags:
 - High-Performance Computing
 - Numerical Linear Algebra
-status: publish
-excerpt: A book review.
-comments: true
+image:
+  feature: main-banner-2.jpg
 ---
 
 <figure>

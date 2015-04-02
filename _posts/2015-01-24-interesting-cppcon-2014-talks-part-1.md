@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Interesting CppCon 2014 Talks - Part 1"
+excerpt: "CppCon 2014 talks."
 date: 2015-01-24
-modified: 2015-03-14
+status: publish
+comments: true
+share: true
 categories:
 - Programming
 - Software Engineering
@@ -11,9 +14,8 @@ tags:
 - C++
 - C++11
 - C++14
-status: publish
-comments: true
-excerpt: CppCon talks.
+image:
+  feature: main-banner-2.jpg
 ---
 
 There were some very interesting talks last year at CppCon 2014 (<a target="_blank" href="https://www.youtube.com/user/CppCon">main Youtube channel</a>). Unfortunately, I did not get to go to the conference but I'm really hoping I can go next year. There is a ton of valuable information from this conference and it is truly the place to be if you are interested in cutting edge topics dealing with the C++ language and how it is used in academia and industry. Fortunately, the CppCon committee procured funds to make all of the talks available for free online so I got to see the main ones I was interested in! Below are the videos plus some of my thoughts. I will follow-up with a part 2 that has more videos as well.
