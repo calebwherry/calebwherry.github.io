@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Research
-tags: [research]
+title: "Research"
 modified: 2015-03-14
 share: off
 image:
