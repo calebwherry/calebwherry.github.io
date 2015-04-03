@@ -1,15 +1,14 @@
 ---
 layout: post
 title: "Helow World"
-excerpt: Hello World!
 date: 2010-08-06
+status: publish
 comments: true
 share: true
-published: true
 categories: []
 tags: []
 image:
-  feature:
+  feature: main-banner-2.jpg
 ---
 
 Hello world!

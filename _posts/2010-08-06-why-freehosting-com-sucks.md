@@ -2,13 +2,14 @@
 layout: post
 title: "Why freehosting.com Sucks!"
 date: 2010-08-06
+status: publish
+comments: true
+share: true
 categories:
 - Misc
 tags: []
-status: publish
-type: post
-published: true
-excerpt: "freehosting.com is the worst!"
+image:
+  feature: main-banner-2.jpg
 ---
 
 One of the worst mistakes someone can make is trying to use a free hosting site to host your website. I was in a rush to get my site up a few months ago and decided to just got with a quick and easy setup from Freehosting.com. It has been the worst mistake I have even made when it comes to hosting! I expected things like uptime to not be perfect cause it is a free host but I did not expect them to blatantly blame problems with their server on me and my site. This is how everything went:
