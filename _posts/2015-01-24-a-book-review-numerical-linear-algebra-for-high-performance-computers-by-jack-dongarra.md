@@ -18,7 +18,7 @@ image:
 
 <figure>
 	<img src="/images/numerical-linear-algebra_dongarra.jpg">
-	<figcaption>ISBN-13: 978-0-898-71428-9</figcaption>
+	<figcaption>ISBN-13: 978-0898714289</figcaption>
 </figure>
 
 > tl;dr: Very fun book to read. Cited in most papers/books on numerical linear algebra topics. Get it and read it!
