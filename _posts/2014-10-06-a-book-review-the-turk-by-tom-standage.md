@@ -17,7 +17,7 @@ image:
 
 <figure>
   <img src="/images/the-turk_standage.jpg" width="227" height="300"/>
-<figcaption>ISBN-13: 0-082713912</figcaption>
+  <figcaption>ISBN-10: 0-082713912</figcaption>
 </figure>
 
 > tl;dr: It's an interesting read but there is too much extra information that doesn't pertain to the story so I found it boring at times.
