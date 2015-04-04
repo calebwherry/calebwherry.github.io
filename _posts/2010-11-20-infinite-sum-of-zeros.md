@@ -24,9 +24,9 @@ We start off with some statements that we accept as true:
 
 $$
 \begin{aligned}
-0 &amp; = 0 \\
-0 &amp; = 0+0 \\
-0 &amp; = 1 - 1
+0 & = 0 \\
+0 & = 0+0 \\
+0 & = 1 - 1
 \end{aligned}
 $$
 
@@ -38,8 +38,8 @@ Okay so everything seems fine thus far. But lets start delving a little deeper:
 
 $$
 \begin{aligned}
-0 &amp; = 0 + 0 + 0 + 0 + \ldots \\
-0 &amp; = (1-1) + (1-1) + (1-1) + (1-1) + \ldots
+0 & = 0 + 0 + 0 + 0 + \ldots \\
+0 & = (1-1) + (1-1) + (1-1) + (1-1) + \ldots
 \end{aligned}
 $$
 
@@ -51,11 +51,11 @@ All I did was rearrange the order in which I added the numbers together. This is
 
 $$
 \begin{aligned}
-0 &amp; = 0 + 0 + 0 + 0 + \ldots \\
-0 &amp; = (1-1) + (1-1) + (1-1) + (1-1) + \ldots \\
-0 &amp; = 1 + (-1+1) + (-1+1) + -1 \ldots \\
-0 &amp; = 1 + 0 + 0 + 0 \ldots \\
-0 &amp; = 1
+0 & = 0 + 0 + 0 + 0 + \ldots \\
+0 & = (1-1) + (1-1) + (1-1) + (1-1) + \ldots \\
+0 & = 1 + (-1+1) + (-1+1) + -1 \ldots \\
+0 & = 1 + 0 + 0 + 0 \ldots \\
+0 & = 1
 \end{aligned}
 $$
 
