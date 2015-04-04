@@ -13,7 +13,10 @@ image:
   feature: main-banner-2.jpg
 ---
 
-<img src="/images/rubiksCube.jpg" />
+<figure>
+	<img src="/images/rubiksCube.jpg" />
+	<figcaption>A standard unsolved rubix cube.</figcaption>
+</figure>
 
 God's Number, the absolute number of moves by which any 3x3 Rubik's Cubes can be solved (and I suppose any nxn if you want to get technical, although at the moment 3x3 is quite impressive), has been sought after for many years. Many have tried to find God's Number but have only raised/lowered the upper and lower bounds of this problem. As of July 2010, this is now a <a href="http://www.cube20.org/">closed problem</a>! What is interesting about this result is that they used a brute force method to come up with God's Number so <a href="http://en.wikipedia.org/wiki/God's_algorithm">God's Algorithm</a> was not found, just the number by which God's Algorithm will have to abide. The site I linked above shows the computations that were done to arrive at this answer. They also have an analysis of which problems were the hardest with their methods.
 
