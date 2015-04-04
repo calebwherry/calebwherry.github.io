@@ -20,7 +20,7 @@ Oh to blog again! It has been awhile... I have to admit, I'm not much of a write
 	<figcaption>\(\text{Erwin Schr}\ddot{o}\text{dinger}\)</figcaption>
 </figure>
 
-Time-Dependent Schrodinger Equation: <div>\(\imath \hbar\frac{\partial}{\partial t} \Psi = \hat{H} \Psi\)</div>
+Time-Dependent Schrodinger Equation: \\(\imath \hbar\frac{\partial}{\partial t} \Psi = \hat{H} \Psi\\)
 
 Grad Quantum Mechanics I (PHYS 5455 at VaTech) started last week. My professor is <a target="_blank" href="http://www.phys.vt.edu/~ersharpe/">Dr. Eric Sharpe</a>, a Mathematical String Theorist who was advised by non-other than Ed Witten at Princeton for his PhD. Dr. Sharpe seems like a pretty nice guy and so far is an extremely good teacher who knows his stuff. The only complaint I have at the moment is when someone asks a question, he usually answers it but sometimes says something like 'This isn't a course in Classical Mechanics/Canonical Transformations/Analysis/etc. so we won't get into that' which I understand completely in most cases, especially here at the beginning with a review of Classical Mechanics. I just hope he does not shake off some of the fundamental questions in quantum mechanics by saying things like 'This isn't a class in Foundations of Quantum Theory so we won't get into that' because I feel those issues are very relevant at the graduate level and are rarely taught. I, for one, am extremely interested in what main-stream interpretation he follows (Everett, Copenhagen, Consistent Histories, etc.) and why. Once the class gets more involved in actual Quantum Mechanics we will see if he brings interpretations into the picture!
 
