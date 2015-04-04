@@ -17,7 +17,7 @@ I wanted to post on types of proofs that I find highly interesting: ones that ar
 ## The "Proof"
 Consider these simple statements:
 
-Let \(a \in \mathbb{R}\)
+Let $a \in \mathbb{R}$
 
 Assume a = b
 
