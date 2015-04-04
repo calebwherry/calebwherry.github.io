@@ -14,7 +14,7 @@ image:
 
 I just installed a new plugin for embedding code into my posts. I had to do some edits to my custom Wordpress theme so here goes nothing:
 
-[code language="cpp" highlight="9,23,24"]
+{% highlight cpp linenos %}
 // Here are some comments.
 // They are pretty awesome, right?
 // And some nice whitespace above, let's see how that comes out.
@@ -35,6 +35,6 @@ namespace matrix {
       virtual ~Matrix();
   };
 } // End matrix namespace
-[/code]
+{% endhighlight %}
 
 And that about sums it up! Looks pretty good I think. I highlighted lines 9, 23, and 24 which is neat. On ChromeOS, as I add more and more lines, there is some weird offset that gets worse and worse SO that after about 30 lines, the numbering is off by a whole line. Might work on that at some point but not now.
