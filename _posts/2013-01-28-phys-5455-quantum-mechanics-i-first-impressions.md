@@ -17,7 +17,7 @@ Oh to blog again! It has been awhile... I have to admit, I'm not much of a write
 
 <figure>
 	<img src="/images/Erwin_Schrodinger.jpg" />
-	<figcaption>\(\text{Erwin Schr}\ddot{o}\text{dinger}\)</figcaption>
+	<figcaption>\\(\text{Erwin Schr}\ddot{o}\text{dinger}\\)</figcaption>
 </figure>
 
 Time-Dependent Schrodinger Equation: \( \imath \hbar\frac{\partial}{\partial t} \Psi = \hat{H} \Psi \)
