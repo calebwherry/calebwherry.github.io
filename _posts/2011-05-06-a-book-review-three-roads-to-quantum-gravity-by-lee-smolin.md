@@ -15,7 +15,7 @@ image:
 ---
 
 <figure>
-	<img src="assets/three_roads_to_quantum_gravity.jpeg" />
+	<img src="/images/three_roads_to_quantum_gravity.jpeg" />
 	<figcaption>ISBN-13: 978-0465078363</figcaption>
 </figure>
 
