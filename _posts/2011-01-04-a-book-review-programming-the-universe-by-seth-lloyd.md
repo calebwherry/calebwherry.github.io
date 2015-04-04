@@ -17,7 +17,7 @@ image:
 ---
 
 <figure>
-	<<img src="/images/programming_the_universe1-194x300.jpg" />
+	<img src="/images/programming_the_universe1.jpg" />
 	<figcaption>ISBN-13: 978-1400033867</figcaption>
 </figure>
 
