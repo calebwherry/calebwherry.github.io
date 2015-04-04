@@ -22,11 +22,11 @@ image:
 
 Today I graduated with my Bachelor of Science degree in Computer Science with minors in Mathematics and Physics! Above is a picture of my family and I after the ceremony (Left to Right: Hannah [Sis], Dad, Mom, Me, Daniel [Bro], & Abraham [Bro]). My oldest sister Faith was the only sibling not present but she will be coming up next week to see my mother graduate with her Doctorate in Nursing (Go mom!) so it'll be good to see her. It was great to have my whole family there and I really appreciate the support they give me and have given me throughout my life. Thanks everyone, I love you all very much!
 
-<img src="/images/meagan_and_me.jpg" /></a>
+<img src="/images/meagan_and_me.jpg" />
 
 Also at my graduation was my beautiful girlfriend Meagan South (pictured above). I'm not sure where I would be without her and I was so happy she came to see me finish a chapter in my life that will launch us both into the next chapter of our life together. I also  want to thank her for putting up with all my science-y ramblings I've had over the past few years and I hope that she doesn't mind a few more. :) I love her with all my heart and am glad we are together!
 
-<img src="/images/luna.jpeg" />
+<img src="/images/luna.jpg" />
 
 As some of you might know, I have recently been interviewing at multiple corporations and businesses for my next big move after I receive my Bachelors degree. Well, over the past few months, I have interviewed at a few places: Microsoft, IBM, Amazon, Google, Facebook, NASA, & a myriad of small businesses. I passed all of my initial interviews with everyone and was even given the pleasure of being flown out to some of the bigger names like Microsoft in Seattle, WA for onsite interviews. These experiences were quite amazing but I was left wanting much more from many of them. Some didn't want to pay me what I thought I should be paid and some of the jobs were just plain boring sounding. And some I just plain didn't make it pass the final interviews! But there was one exception to this. One place that fit like a glove on all accounts. And that was a small business research company in Roanoke, VA named <a href="http://lunainc.com/">Luna Innovations</a>. My phone interview with them went amazingly well so they flew me to Roanoke, VA to have an onsite interview. I have to say, it was one of the most comfortable situations I had ever been in. Everyone was extremely nice and professional but they were also laid back. I could tell they cared about me as person and not just me as a worker. It was great! I was mostly asked about my diverse background in many areas of science and mathematics. Only a few technical questions were asked and I took this as a good sign. I was called the next morning and offered the job!
 
