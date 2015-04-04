@@ -16,7 +16,7 @@ image:
 
 <figure>
 	<img src="/images/the_meaning_of_it_all-feynman.jpg" width="197" height="300" />
-	<figcatption>ISBN-13: 978-0465023943</figcaption>
+	<figcaption>ISBN-13: 978-0465023943</figcaption>
 </figure>
 
 I was really excited about this book when I first saw it. Feynman was a brilliant physicist and his other writings I have read are excellent (Feynman Lectures, for example). He was a master at explaining ideas and I thought this book would reflect that. I was excited about seeing how he would bring together different ideas that were outside his area of expertise.
