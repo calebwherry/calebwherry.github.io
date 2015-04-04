@@ -17,7 +17,7 @@ I wanted to post on types of proofs that I find highly interesting: ones that ar
 ## The "Proof"
 Consider these simple statements:
 
-Let \(a \in \mathbb{R}\)
+Let \\(a \in \mathbb{R}\\)
 
 Assume a = b
 
@@ -25,14 +25,14 @@ Isolating the equation, multiply both sides by a:
 
 $$ a^2 = ab $$
 
-Subtract \( b^2 \) from both sides:
+Subtract \\( b^2 \\) from both sides:
 
 $$ a^2 - b^2 = ab - b^2 $$
 
 Now let us factor each side:
 $$ (a+b)(a-b)=b(a-b) $$
 
-We can now divide each side by \((a-b)\):
+We can now divide each side by \\((a-b)\\):
 
 $$ \frac{(a+b)(a-b)}{(a-b)}=\frac{b(a-b)}{(a-b)} $$
 
@@ -65,8 +65,8 @@ So now that we are thinking down the path of implications of knowing properties 
 
 But we are still not done. We know that this should now yield a 0 value if we subtract them. There should be a fundamental rule of Mathematics that should immediately be coming to mind at this moment and be screaming at you... <b>NO DIVISION BY ZERO!</b>
 
-Ah ha! We have realized a fundamental law that could be violated if we simply use the statement \( a-b \) where a and b are equal. This logical progression should be almost immediate to anyone that has learned Mathematics at its most basic levels. And this all comes from just the first line, all of this should have been going through your mind on the very first line of this proof! If this did occur to you on the first line, or even throughout the proof, then you most likely would not catch the error in the proof. Even if this did occur to you at some point, it still might not have registered with you. But why is this?
+Ah ha! We have realized a fundamental law that could be violated if we simply use the statement \\( a-b \\) where a and b are equal. This logical progression should be almost immediate to anyone that has learned Mathematics at its most basic levels. And this all comes from just the first line, all of this should have been going through your mind on the very first line of this proof! If this did occur to you on the first line, or even throughout the proof, then you most likely would not catch the error in the proof. Even if this did occur to you at some point, it still might not have registered with you. But why is this?
 
-Another problem I would like to discuss is people's fundamental block in going from symbols to numbers. They do not understand that a, in this situation, can be any number. So, when they see "a", they do not see a number, they just see "a". That is why many people cannot make the jump from \(a-b\) means \(1-1\) or \(2-2\) or any other number. That means they will miss that it could yield a 0 result which could be problematic with division further down the road in the proof!
+Another problem I would like to discuss is people's fundamental block in going from symbols to numbers. They do not understand that a, in this situation, can be any number. So, when they see "a", they do not see a number, they just see "a". That is why many people cannot make the jump from \\(a-b\\) means \\(1-1\\) or \\(2-2\\) or any other number. That means they will miss that it could yield a 0 result which could be problematic with division further down the road in the proof!
 
 Well, that is my two cents on the subject. I love these types of proof but I wish more lay people could spot the error(s) in them.
