@@ -17,6 +17,8 @@ I just installed a new plugin for embedding code into my posts. I had to do some
 {% highlight cpp linenos %}
 // Here are some comments.
 // They are pretty awesome, right?
+
+
 // And some nice whitespace above, let's see how that comes out.
 // Also, what about a reeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaallly long line.
 // Alright, looks good. Let's do some syntax highlighting, should be C++ since I used the cpp tags...
