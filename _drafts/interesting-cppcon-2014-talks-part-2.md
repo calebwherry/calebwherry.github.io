@@ -2,7 +2,9 @@
 layout: post
 title: "Interesting CppCon 2014 Talks - Part 2"
 date: 2015-03-08
-modified: 2015-03-14
+status: publish
+comments: true
+share: true
 categories:
 - Programming
 - Software Engineering
@@ -11,10 +13,8 @@ tags:
 - C++
 - C++11
 - C++14
-status: draft
-published: false
-comments: true
-excerpt: CppCon Videos
+image:
+  feature: main-banner-2.jpg
 ---
 
 Alright, part 2! I wrote <a href="http://www.calebwherry.com/blog/2015/01/24/interesting-cppcon-2014-talks-part-1/" title="Interesting CppCon 2014 Talks – Part 1" target="_blank">part 1</a> a while back and am just now getting around to part 2. These talks are a little more specific to my interests whereas the ones in part 1 were more general.

@@ -1,48 +1,25 @@
 ---
 layout: post
-title: Interviews & Interview Questions
-date: 2014-05-10 21:58:30.000000000 -04:00
+title: "Interviews & Interview Questions"
+date: 2014-05-10
+status: publish
+comments: true
+share: true
 categories:
 - Life
 - Programming
 - Software Engineering
 tags:
 - Interview Questions
-status: draft
-type: post
-published: false
-meta:
-  ect-template-is-public: ''
-  _edit_last: '1'
-  _syntaxhighlighter_encoded: '1'
-  _wpas_mess: Interviews & Interview Questions http://wp.me/p4mQv0-ug
-  _wpas_done_all: '1'
-  dsq_thread_id: '2676007267'
-  _wpas_skip_8987576: '1'
-  _wpas_skip_8987581: '1'
-  _wpas_skip_8987584: '1'
-  _wpas_skip_8987604: '1'
-  _wpas_skip_6372903: '1'
-  _wpas_skip_10615076: '1'
-  _wpas_skip_10615337: '1'
-  _wpas_skip_10615342: '1'
-  _wpas_skip_10615325: '1'
-  _wpas_skip_10615344: '1'
-author:
-  login: caleb
-  email: calebwherry@gmail.com
-  display_name: caleb
-  first_name: ''
-  last_name: ''
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+image:
+  feature: main-banner-2.jpg
 ---
-<blockquote>
-tl;dr: This is a really long post and full of interview questions. If you are just interested in the code, it can be <a href="https://github.com/calebwherry/BlogCode/tree/master/interviews_and_interview_questions" target="_blank">found on my GitHub</a>.<br />
-<cite>Me</cite>
-</p></blockquote>
-<hr />
-<p>I'll update this post from time to time whenever I change jobs/careers to include new interview information/questions. Below is the list of when I updated the post along with the company I interviewed with. All new sections will appear at the end of this post.</p>
+
+> tl;dr: This is a really long post and full of interview questions. If you are just interested in the code, it can be 
+> <a href="https://github.com/calebwherry/BlogCode/tree/master/interviews_and_interview_questions" target="_blank">found on my GitHub</a>.
+
+I'll update this post from time to time whenever I change jobs/careers to include new interview information/questions. Below is the list of when I updated the post along with the company I interviewed with. All new sections will appear at the end of this post.
+
 <ul>
 <li>Updated: 3/5/2015 - Nexidia, Inc. (Accepted)</li>
 </ul>
