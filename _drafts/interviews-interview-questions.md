@@ -708,7 +708,7 @@ $ grep -o '([0-9]\{3\})\s*[0-9]\{3\}\s*-\s*[0-9]\{4\}' filename | sed 's/ \+//g'
 <ul>
 <li>Nothing.</li>
 </ul>
-<p>Question 7: What is the difference between a system level call and a library call?</p>
+<p>Question 7: What is the difference between a system level call and a standard C library call?</p>
 <ul>
 <li>...</li>
 </ul>
