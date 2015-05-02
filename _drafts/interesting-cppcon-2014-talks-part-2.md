@@ -2,7 +2,7 @@
 layout: post
 title: "Interesting CppCon 2014 Talks - Part 2"
 date: 2015-03-08
-status: publish
+status: draft
 comments: true
 share: true
 categories:

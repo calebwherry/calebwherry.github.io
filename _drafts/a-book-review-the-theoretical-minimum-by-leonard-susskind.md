@@ -2,7 +2,7 @@
 layout: post
 title: "A Book Review: The Theoretical Minimum by Leonard Susskind"
 date: 2014-10-06
-status: publish
+status: draft
 comments: true
 share: true
 categories:
