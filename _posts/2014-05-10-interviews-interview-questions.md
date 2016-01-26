@@ -91,6 +91,8 @@ int main()
   return 0;
 }
 {% endhighlight %}
+</div>
+</div>
 
 ### IBM (Internship) - Wait-listed
 
