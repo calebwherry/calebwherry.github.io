@@ -18,9 +18,11 @@ image:
 > tl;dr: This is a really long post and full of interview questions. If you are just interested in the code, it can be 
 > <a href="https://github.com/calebwherry/BlogCode/tree/master/interviews_and_interview_questions" target="_blank">found on my GitHub</a>.
 
-I'll update this post from time to time whenever I change jobs/careers to include new interview information/questions. Below is the list of when I updated the post along with the company I interviewed with. All new sections will appear at the end of this post.
+I'll update this post from time to time whenever I change jobs/careers to include new interview information/questions. All new sections will appear at the end of this post.
 
 *Updated: 3/5/2015 - Nexidia, Inc. (Accepted)*
+
+<hr />
 
 I've had many interviews over the past 8 years, some good and some bad. Each one has been a mix of both technical and behavioral questions. I would like to document some of the technical questions here along with some of my experiences. All code is compilable so enjoy (some might need C++11 support so compile with correct std flag: g++ -std=c++11 file)!
 
