@@ -10,7 +10,7 @@ image:
   feature: main-banner-2.jpg
 ---
 
-<iframe src="https://drive.google.com/file/d/0B9aId9jAWLcQejdJQ3JxS0k1TmM/view?usp=sharing" 
+<iframe src="https://docs.google.com/viewer?srcid=0B9aId9jAWLcQejdJQ3JxS0k1TmM&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
 width="700" 
 height="600" 
 style="border: none;"> </iframe>
