@@ -135,6 +135,8 @@ $ grep -o '([0-9]\{3\})\s*[0-9]\{3\}\s*-\s*[0-9]\{4\}' filename
 
 I'm not even going to try and answer this question here since it has so many levels. I stumbled through about 10 minutes of going into as much detail about every level of the computer I knew. I talked about circuits, graphics, the IP stack, DNS servers, packets, AES encryption, etc. It was a pretty cool question and I think it really shows how much someone knows about computing systems as a whole.
 
+There is a group of people that [have tried to answer this question completely](https://github.com/alex/what-happens-when) so you can find some interesting insights there.
+
 ### Microsoft (Internship) - No Offer
 
 Interviewing with M$ was a lot of fun, which I didn't expect! They flew me out to Redmond and the hotel was extremely nice! I loved the office too, very pretty and the campus was great. I thought they wined-and-dined us interviewees (there were multiple people interviewing) and it was nice talking to them.
