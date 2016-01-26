@@ -108,9 +108,9 @@ This interview was pretty fun, it was for IBM's Extreme Blue Internship, their e
 > Question 2: Explain some different types of SQL joins.
 
 * ANSI joins: inner, left outer, right outer, full outer, and cross. All of these joins depends on what you want your result set to be and how you are pulling the data from your tables (examples below are for only 2 tables A & B).
-** Inner: This is the most typical and natural join and does not usually need to be explicitly stated. The result set is a combination of rows from table A and table B that match the where clause directly. NULL values are ignored and are not matched (unless explicitly looked for).
-** Outer (Full, right, left): Outer joins allow us to match against null values. Full allows NULLs from both table A and table B, right allows NULLs from table B, and left allows NULLs from table A.
-** Cross: This join is the same as the mathematical (Cartesian) cross product. For every row in table A, this join matches it with every row in table B. Therefore you get a matching of every row in each table.
+    * Inner: This is the most typical and natural join and does not usually need to be explicitly stated. The result set is a combination of rows from table A and table B that match the where clause directly. NULL values are ignored and are not matched (unless explicitly looked for).
+    * Outer (Full, right, left): Outer joins allow us to match against null values. Full allows NULLs from both table A and table B, right allows NULLs from table B, and left allows NULLs from table A.
+    * Cross: This join is the same as the mathematical (Cartesian) cross product. For every row in table A, this join matches it with every row in table B. Therefore you get a matching of every row in each table.
 
 > Question 3: How would you find all phone numbers in a given file?
 
