@@ -46,13 +46,11 @@ No technical interview and no contact from potential boss. Accepted sight unseen
 
 This was my first interview with a big software tech company. It was after my sophomore year, during my 2nd NASA internship. I had 2 phone interviews but it didn't proceed any further. The questions were general at first about my school work then they ask me some technical questions. I don't remember them very much but here are the ones I do remember.
 
-> Question 1: How would you design ads to be displayed for a given 3 word query (example query: "red horse barn")? Keep in mind 
-> scalability!
+> Question 1: How would you design ads to be displayed for a given 3 word query (example query: "red horse barn")? Keep in mind scalability!
 
 I took the first 10 minutes or so to talk through some ideas I had for this question since it was pretty broad. I don't recall what they were really but the interviewer shot down a lot of them. I then decided to take a more mathematical approach and talked about the binomial theorem and how that fleshed out problems for data structures that weren't hash-based (look-up being the major bottleneck). The interviewer was impressed with the mathematics I used and liked how I incorporated it into my hashing approach. I can't remember the actual details though.
 
-> Question 2: Given a list of increasing numbers, how would you turn that list into spreadsheet headings 
-> (A-Z, AA-ZZ, AAA-ZZZ, etc)?
+> Question 2: Given a list of increasing numbers, how would you turn that list into spreadsheet headings (A-Z, AA-ZZ, AAA-ZZZ, etc)?
 
 I really screwed this question up and it cost me the internship I think. I could not get the inner loop logic correct and the interviewer didn't give me any help. This meant the question took up the whole 20 minutes we had and she didn't seem too impressed. Oh well, it would have been cool to intern at Google but I took NASA instead which was pretty badass. Here is a particular implementation that works.
 
@@ -100,52 +98,47 @@ This interview was pretty fun, it was for IBM's Extreme Blue Internship, their e
 
 > Question 1: What is the difference between final, finally, and finalize in Java?
 
-<ul>
-<li>Final has 3 use cases:
-<ul>
-<li>Variable: Can't be changed.</li>
-<li>Function: Can't be over-ridden.</li>
-<li>Class: Can't be inherited.</li>
-</ul>
-</li>
-<li>Finally: Third section that can used with try/catch block that ALWAYS gets called, even when exceptions happen.</li>
-<li>Finalize: Called when an object is destructed by garbage collector.</li>
-</ul>
-<p>Question 2: Explain some different types of SQL joins.</p>
-<ul>
-<li>ANSI joins: inner, left outer, right outer, full outer, and cross. All of these joins depends on what you want your result set to be and how you are pulling the data from your tables (examples below are for only 2 tables A & B).
-<ul>
-<li>Inner: This is the most typical and natural join and does not usually need to be explicitly stated. The result set is a combination of rows from table A and table B that match the where clause directly. NULL values are ignored and are not matched (unless explicitly looked for).</li>
-<li>Outer (Full, right, left): Outer joins allow us to match against null values. Full allows NULLs from both table A and table B, right allows NULLs from table B, and left allows NULLs from table A.</li>
-<li>Cross: This join is the same as the mathematical (Cartesian) cross product. For every row in table A, this join matches it with every row in table B. Therefore you get a matching of every row in each table.</li>
-</ul>
-</li>
-</ul>
-<p>Question 3: How would you find all phone numbers in a given file?</p>
-<ul>
-<li>Most people would use awk or sed to accomplish this but I prefer grep! The one below is a little bit fancier than the one I came up with in the interview (this one takes into account spaces) but I couldn't help sprucing it up.</li>
-</ul>
+* Final has 3 use cases:
+** Variable: Can't be changed.
+** Function: Can't be over-ridden.
+** Class: Can't be inherited.
+* Finally: Third section that can used with try/catch block that ALWAYS gets called, even when exceptions happen.
+* Finalize: Called when an object is destructed by garbage collector.
+
+> Question 2: Explain some different types of SQL joins.
+
+* ANSI joins: inner, left outer, right outer, full outer, and cross. All of these joins depends on what you want your result set to be and how you are pulling the data from your tables (examples below are for only 2 tables A & B).
+** Inner: This is the most typical and natural join and does not usually need to be explicitly stated. The result set is a combination of rows from table A and table B that match the where clause directly. NULL values are ignored and are not matched (unless explicitly looked for).
+** Outer (Full, right, left): Outer joins allow us to match against null values. Full allows NULLs from both table A and table B, right allows NULLs from table B, and left allows NULLs from table A.
+** Cross: This join is the same as the mathematical (Cartesian) cross product. For every row in table A, this join matches it with every row in table B. Therefore you get a matching of every row in each table.
+
+> Question 3: How would you find all phone numbers in a given file?
+
+Most people would use awk or sed to accomplish this but I prefer grep! The one below is a little bit fancier than the one I came up with in the interview (this one takes into account spaces) but I couldn't help sprucing it up.
+
 <div class="accordion">
 <h6>Click for Code</h6>
 <div>
-[code language="shell"]<br />
-$ grep -o '([0-9]\{3\})\s*[0-9]\{3\}\s*-\s*[0-9]\{4\}' filename<br />
-[/code]
+{% highlight shell linenos %}
+$ grep -o '([0-9]\{3\})\s*[0-9]\{3\}\s*-\s*[0-9]\{4\}' filename
+{% endhighlight %}
 </div>
 </div>
-<p>Question 4: Describe the 3 pillars of OOP.</p>
-<ul>
-<li>Encapsulation: Single word - abstraction. Create classes that hide data and implementation that the users do not need to know about.</li>
-<li>Polymorphism: Create functions/classes that can take multiple types without having to explicitly code for the types (templates in C++). Function overloading is also sometimes considered polymorphic since you use the same function names but different return type and parameters.</li>
-<li>Inheritance: The ability for classes to have subclasses that can use the data that is present in the parent class. This allows for the creation of hierarchy in class structure and reduce code duplication. It also helps with encapsulation.</li>
-</ul>
-<p>Question 5: Explain what happens when you type in a URL and press the enter key. Use as much detail as possible at all levels (hardware and software).</p>
-<ul>
-<li>I'm not even going to try and answer this question here since it has so many levels. I stumbled through about 10 minutes of going into as much detail about every level of the computer I knew. I talked about circuits, graphics, the IP stack, DNS servers, packets, AES encryption, etc. It was a pretty cool question and I think it really shows how much someone knows about computing systems as a whole.</li>
-</ul>
-<hr />
-<h3>Microsoft (Internship) - No Offer</h3>
-<p>Interviewing with M$ was a lot of fun, which I didn't expect! They flew me out to Redmond and the hotel was extremely nice! I loved the office too, very pretty and the campus was great. I thought they wined-and-dined us interviewees (there were multiple people interviewing) and it was nice talking to them.</p>
+
+> Question 4: Describe the 3 pillars of OOP.
+
+* Encapsulation: Single word - abstraction. Create classes that hide data and implementation that the users do not need to know about.
+* Polymorphism: Create functions/classes that can take multiple types without having to explicitly code for the types (templates in C++). Function overloading is also sometimes considered polymorphic since you use the same function names but different return type and parameters.
+* Inheritance: The ability for classes to have subclasses that can use the data that is present in the parent class. This allows for the creation of hierarchy in class structure and reduce code duplication. It also helps with encapsulation.
+
+> Question 5: Explain what happens when you type in a URL and press the enter key. Use as much detail as possible at all levels (hardware and software).
+
+I'm not even going to try and answer this question here since it has so many levels. I stumbled through about 10 minutes of going into as much detail about every level of the computer I knew. I talked about circuits, graphics, the IP stack, DNS servers, packets, AES encryption, etc. It was a pretty cool question and I think it really shows how much someone knows about computing systems as a whole.
+
+### Microsoft (Internship) - No Offer
+
+Interviewing with M$ was a lot of fun, which I didn't expect! They flew me out to Redmond and the hotel was extremely nice! I loved the office too, very pretty and the campus was great. I thought they wined-and-dined us interviewees (there were multiple people interviewing) and it was nice talking to them.
+
 <p>Question 1: Flip the least significant '1' bit in a given integer.</p>
 <ul>
 <li>I spent waaaay too long on this question and didn't get the answer. It was a super simple answer and the guy had a smirk on his face the entire time I was at the whiteboard. I went through trying to convert the integer to a string and then finding the last significant and flipping it. This was pretty ridiculous, to say the least. I have highlighted the line below that does the logic to flip the bit.</li>
