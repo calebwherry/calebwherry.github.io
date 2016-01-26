@@ -20,7 +20,7 @@ image:
 
 I'll update this post from time to time whenever I change jobs/careers to include new interview information/questions. All new sections will appear at the end of this post.
 
-*Updated: 3/5/2015 - Nexidia, Inc. (Accepted)*
+*Updated: 3/5/2015 - Nexidia, Inc. (Accepted - Senior Software Engineer)*
 
 <hr />
 
