@@ -99,9 +99,9 @@ This interview was pretty fun, it was for IBM's Extreme Blue Internship, their e
 > Question 1: What is the difference between final, finally, and finalize in Java?
 
 * Final has 3 use cases:
-** Variable: Can't be changed.
-** Function: Can't be over-ridden.
-** Class: Can't be inherited.
+ ** Variable: Can't be changed.
+ ** Function: Can't be over-ridden.
+ ** Class: Can't be inherited.
 * Finally: Third section that can used with try/catch block that ALWAYS gets called, even when exceptions happen.
 * Finalize: Called when an object is destructed by garbage collector.
 
