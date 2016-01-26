@@ -119,7 +119,7 @@ Most people would use awk or sed to accomplish this but I prefer grep! The one b
 <div class="accordion">
 <h6>Click for Code</h6>
 <div>
-{% highlight shell linenos %}
+{% highlight sh linenos %}
 $ grep -o '([0-9]\{3\})\s*[0-9]\{3\}\s*-\s*[0-9]\{4\}' filename
 {% endhighlight %}
 </div>
