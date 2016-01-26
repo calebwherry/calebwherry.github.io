@@ -74,13 +74,13 @@ int main()
   int groupCount = 0;
   
   // Loop through and print out each label, one per line:
-  for (int i=0; i&lt;MAX_NUM; ++i)
+  for (int i=0; i<MAX_NUM; ++i)
   {
     // Increment group count if multiple of BASE:
     if ( ((i%BASE) == 0) ) groupCount++;
     
     // Print each letter per group count:
-    for(int j=0; j&lt;groupCount; ++j)
+    for(int j=0; j<groupCount; ++j)
     {
       cout << static_cast<char>( (i%BASE) + ASCII_START_VAL);
     }
