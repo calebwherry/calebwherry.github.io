@@ -20,24 +20,26 @@ image:
 
 I'll update this post from time to time whenever I change jobs/careers to include new interview information/questions. Below is the list of when I updated the post along with the company I interviewed with. All new sections will appear at the end of this post.
 
-<ul>
-<li>Updated: 3/5/2015 - Nexidia, Inc. (Accepted)</li>
-</ul>
-<hr />
-<p>I've had many interviews over the past 8 years, some good and some bad. Each one has been a mix of both technical and behavioral questions. I would like to document some of the technical questions here along with some of my experiences. All code is compilable so enjoy (some might need C++11 support so compile with correct std flag: g++ -std=c++11 file)!</p>
-<h3>OEM Tube Assemblies (Internship) - Accepted Offer (Spring 2008)</h3>
-<p>This was my very first interview. It was for a local company in Clarksville, TN for the Spring of my Sophomore year. I was not interviewed by anyone on a technical basis, just had a recommendation from one of my professors. I remember talking with their HR person but I can't remember if they asked any questions or not. In the end, an easy interview!</p>
-<hr />
-<h3>Lawrence Livermore National Lab (Internship) - Accepted Offer (Summer 2008)</h3>
-<p>This interview was a step up from OEM Tube Assemblies in that I had a phone interview with my potential boss before getting an offer. He asked me what classes I was taking and some projects I had worked on. Nothing technical at all, he gave me a pitch for the project and I said I'd do it.</p>
-<hr />
-<h3>NASA Langley Research Center (Internship) - Accepted Offer (Fall 2008)</h3>
-<p>No technical interview, I received an email from my potential boss before getting an offer. He pitched his project, asked if I was interested, and I said yes.</p>
-<hr />
-<h3>NASA Jet Propulsion Lab (Internship) - Accepted Offer (Spring 2009 & Summer 2009)</h3>
-<p>No technical interview and no contact from potential boss. Accepted sight unseen.</p>
-<p><!--more--></p>
-<hr />
+*Updated: 3/5/2015 - Nexidia, Inc. (Accepted)*
+
+I've had many interviews over the past 8 years, some good and some bad. Each one has been a mix of both technical and behavioral questions. I would like to document some of the technical questions here along with some of my experiences. All code is compilable so enjoy (some might need C++11 support so compile with correct std flag: g++ -std=c++11 file)!
+
+### OEM Tube Assemblies (Internship) - Accepted Offer (Spring 2008)
+
+This was my very first interview. It was for a local company in Clarksville, TN for the Spring of my Sophomore year. I was not interviewed by anyone on a technical basis, just had a recommendation from one of my professors. I remember talking with their HR person but I can't remember if they asked any questions or not. In the end, an easy interview!
+
+### Lawrence Livermore National Lab (Internship) - Accepted Offer (Summer 2008)
+
+This interview was a step up from OEM Tube Assemblies in that I had a phone interview with my potential boss before getting an offer. He asked me what classes I was taking and some projects I had worked on. Nothing technical at all, he gave me a pitch for the project and I said I'd do it.
+
+### NASA Langley Research Center (Internship) - Accepted Offer (Fall 2008)
+
+No technical interview, I received an email from my potential boss before getting an offer. He pitched his project, asked if I was interested, and I said yes.
+
+### NASA Jet Propulsion Lab (Internship) - Accepted Offer (Spring 2009 & Summer 2009)
+
+No technical interview and no contact from potential boss. Accepted sight unseen.
+
 <h3>Google (Internship) - No Offer</h3>
 <p>This was my first interview with a big software tech company. It was after my sophomore year, during my 2nd NASA internship. I had 2 phone interviews but it didn't proceed any further. The questions were general at first about my school work then they ask me some technical questions. I don't remember them very much but here are the ones I do remember.</p>
 <p>Question 1: How would you design ads to be displayed for a given 3 word query (example query: "red horse barn")? Keep in mind scalability!</p>
