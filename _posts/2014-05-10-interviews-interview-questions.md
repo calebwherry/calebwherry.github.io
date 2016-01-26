@@ -42,51 +42,62 @@ No technical interview, I received an email from my potential boss before gettin
 
 No technical interview and no contact from potential boss. Accepted sight unseen.
 
-<h3>Google (Internship) - No Offer</h3>
-<p>This was my first interview with a big software tech company. It was after my sophomore year, during my 2nd NASA internship. I had 2 phone interviews but it didn't proceed any further. The questions were general at first about my school work then they ask me some technical questions. I don't remember them very much but here are the ones I do remember.</p>
-<p>Question 1: How would you design ads to be displayed for a given 3 word query (example query: "red horse barn")? Keep in mind scalability!</p>
-<ul>
-<li>I took the first 10 minutes or so to talk through some ideas I had for this question since it was pretty broad. I don't recall what they were really but the interviewer shot down a lot of them. I then decided to take a more mathematical approach and talked about the binomial theorem and how that fleshed out problems for data structures that weren't hash-based (look-up being the major bottleneck). The interviewer was impressed with the mathematics I used and liked how I incorporated it into my hashing approach. I can't remember the actual details though.</li>
-</ul>
-<p>Question 2: Given a list of increasing numbers, how would you turn that list into spreadsheet headings (A-Z, AA-ZZ, AAA-ZZZ, etc)?</p>
-<ul>
-<li>I really screwed this question up and it cost me the internship I think. I could not get the inner loop logic correct and the interviewer didn't give me any help. This meant the question took up the whole 20 minutes we had and she didn't seem too impressed. Oh well, it would have been cool to intern at Google but I took NASA instead which was pretty badass. Here is a particular implementation that works.</li>
-</ul>
+### Google (Internship) - No Offer
+
+This was my first interview with a big software tech company. It was after my sophomore year, during my 2nd NASA internship. I had 2 phone interviews but it didn't proceed any further. The questions were general at first about my school work then they ask me some technical questions. I don't remember them very much but here are the ones I do remember.
+
+> Question 1: How would you design ads to be displayed for a given 3 word query (example query: "red horse barn")? Keep in mind 
+> scalability!
+
+I took the first 10 minutes or so to talk through some ideas I had for this question since it was pretty broad. I don't recall what they were really but the interviewer shot down a lot of them. I then decided to take a more mathematical approach and talked about the binomial theorem and how that fleshed out problems for data structures that weren't hash-based (look-up being the major bottleneck). The interviewer was impressed with the mathematics I used and liked how I incorporated it into my hashing approach. I can't remember the actual details though.
+
+> Question 2: Given a list of increasing numbers, how would you turn that list into spreadsheet headings 
+> (A-Z, AA-ZZ, AAA-ZZZ, etc)?
+
+I really screwed this question up and it cost me the internship I think. I could not get the inner loop logic correct and the interviewer didn't give me any help. This meant the question took up the whole 20 minutes we had and she didn't seem too impressed. Oh well, it would have been cool to intern at Google but I took NASA instead which was pretty badass. Here is a particular implementation that works.
+
 <div class="accordion">
 <h6>Click for Code</h6>
 <div>
-[code language="cpp"]<br />
-#include &lt;iostream&gt;</p>
-<p>using namespace std;</p>
-<p>int main()<br />
-{</p>
-<p>  // Constants:<br />
-  const int BASE = 26,            // Base that we are computing labels for.<br />
-            ASCII_START_VAL = 65, // ASCII value of 'A', where we start.<br />
-            MAX_NUM = 100;        // Maximum number of headings to process.</p>
-<p>  // Grouping count for headings:<br />
-  int groupCount = 0;</p>
-<p>  // Loop through and print out each label, one per line:<br />
-  for (int i=0; i&lt;MAX_NUM; ++i)<br />
-  {</p>
-<p>    // Increment group count if multiple of BASE:<br />
-    if ( ((i%BASE) == 0) ) groupCount++;</p>
-<p>    // Print each letter per group count:<br />
-    for(int j=0; j&lt;groupCount; ++j)<br />
-    {<br />
-      cout &lt;&lt; static_cast&lt;char&gt;( (i%BASE) + ASCII_START_VAL);<br />
-    }   </p>
-<p>    cout &lt;&lt; endl;</p>
-<p>  }</p>
-<p>  return 0;<br />
-}<br />
-[/code]
-</p></div>
-</div>
-<hr />
-<h3>IBM (Internship) - Wait-listed</h3>
-<p>This interview was pretty fun, it was for IBM's Extreme Blue Internship, their elite program. I had 2 phone interviews and was wait-listed for a project but I suppose the project leads didn't like my background or interview answers. I would have liked to participate, I got my buddy Robert French to apply the following year and he was selected and liked it a lot. I forgot a ton of the questions they asked but here the ones I remember.</p>
-<p>Question 1: What is the difference between final, finally, and finalize in Java?</p>
+{% highlight cpp linenos %}
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  // Constants:
+  const int BASE = 26,            // Base that we are computing labels for.
+            ASCII_START_VAL = 65, // ASCII value of 'A', where we start.
+            MAX_NUM = 100;        // Maximum number of headings to process.
+            
+  // Grouping count for headings:
+  int groupCount = 0;
+  
+  // Loop through and print out each label, one per line:
+  for (int i=0; i&lt;MAX_NUM; ++i)
+  {
+    // Increment group count if multiple of BASE:
+    if ( ((i%BASE) == 0) ) groupCount++;
+    
+    // Print each letter per group count:
+    for(int j=0; j&lt;groupCount; ++j)
+    {
+      cout << static_cast<char>( (i%BASE) + ASCII_START_VAL);
+    }
+    
+    cout << endl;
+  }
+
+  return 0;
+}
+{% endhighlight %}
+
+### IBM (Internship) - Wait-listed
+
+This interview was pretty fun, it was for IBM's Extreme Blue Internship, their elite program. I had 2 phone interviews and was wait-listed for a project but I suppose the project leads didn't like my background or interview answers. I would have liked to participate, I got my buddy Robert French to apply the following year and he was selected and liked it a lot. I forgot a ton of the questions they asked but here the ones I remember.
+
+> Question 1: What is the difference between final, finally, and finalize in Java?
+
 <ul>
 <li>Final has 3 use cases:
 <ul>
