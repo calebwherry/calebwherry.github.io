@@ -176,7 +176,7 @@ int main()
 
 > Question 2: Write code to traverse a Binary Tree by inorder, preorder, and postorder traversals.
 
-This one I knew easily and I think he gave it to me because I screwed up the previous question. I am not going to write out the answers here but link you to the code I wrote for a library to do this: <a href="https://github.com/calebwherry/Cpp-Libraries/blob/master/lib/DataStructures/BinaryTree.hpp" target="_blank">BinaryTree implementation</a>.
+This one I knew easily and I think he gave it to me because I screwed up the previous question. I am not going to write out the answers here but link you to the code I wrote for a library to do this: [BinaryTree implementation](https://github.com/calebwherry/Cpp-Libraries/blob/master/lib/DataStructures/BinaryTree.hpp).
 
 > Question 3: Write a default constructor, custom constructor, destructor, copy constructor, and assignment operator for a given class with a character array as a private data member.
 
