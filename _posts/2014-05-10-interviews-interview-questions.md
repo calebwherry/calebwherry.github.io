@@ -1,19 +1,21 @@
 ---
 layout: post
 title: "Interviews & Interview Questions"
-date: 2014-05-10
+date: 2014-05-10T00:00:00.000Z
 status: publish
 comments: true
 share: true
-categories:
-- Life
-- Programming
-- Software Engineering
-tags:
-- Interview Questions
-image:
-  feature: main-banner-2.jpg
+categories: 
+  - Life
+  - Programming
+  - Software Engineering
+tags: 
+  - Interview Questions
+image: 
+  feature: "main-banner-2.jpg"
+published: true
 ---
+
 
 > tl;dr: This is a really long post and full of interview questions. If you are just interested in the code, it can be 
 > <a href="https://github.com/calebwherry/BlogCode/tree/master/interviews_and_interview_questions" target="_blank">found on my GitHub</a>.
@@ -141,32 +143,36 @@ There is a group of people that [have tried to answer this question completely](
 
 Interviewing with M$ was a lot of fun, which I didn't expect! They flew me out to Redmond and the hotel was extremely nice! I loved the office too, very pretty and the campus was great. I thought they wined-and-dined us interviewees (there were multiple people interviewing) and it was nice talking to them.
 
-<p>Question 1: Flip the least significant '1' bit in a given integer.</p>
-<ul>
-<li>I spent waaaay too long on this question and didn't get the answer. It was a super simple answer and the guy had a smirk on his face the entire time I was at the whiteboard. I went through trying to convert the integer to a string and then finding the last significant and flipping it. This was pretty ridiculous, to say the least. I have highlighted the line below that does the logic to flip the bit.</li>
-</ul>
+> Question 1: Flip the least significant '1' bit in a given integer.
+
+I spent waaaay too long on this question and didn't get the answer. It was a super simple answer and the guy had a smirk on his face the entire time I was at the whiteboard. I went through trying to convert the integer to a string and then finding the last significant and flipping it. This was pretty ridiculous, to say the least. I have highlighted the line below that does the logic to flip the bit.
+
 <div class="accordion">
 <h6>Click for Code</h6>
 <div>
-[code language="cpp" highlight="14"]<br />
-#include &lt;bitset&gt;<br />
-#include &lt;iostream&gt;</p>
-<p>using namespace std;</p>
-<p>int main()<br />
-{<br />
-  int a = 11;<br />
-  bitset&lt;8&gt; b(a);</p>
-<p>  cout &lt;&lt; &quot;Before flip: value = &quot; &lt;&lt; a &lt;&lt; &quot; | bits = &quot; &lt;&lt; b &lt;&lt; endl;</p>
-<p>  // Main logic for lowest '1' bit to be flipped:<br />
-  a = (a-1) &amp; a;</p>
-<p>  b = bitset&lt;8&gt;(a);<br />
-  cout &lt;&lt; &quot;After flip: value = &quot; &lt;&lt; a &lt;&lt; &quot; | bits = &quot; &lt;&lt; b &lt;&lt; endl;</p>
-<p>  return 0;<br />
-}<br />
-[/code]
-</p></div>
-</div>
-<p>Question 2: Write code to traverse a Binary Tree by inorder, preorder, and postorder traversals.</p>
+{% highlight cpp linenos %}
+#include <bitset>
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  int a = 11;
+  bitset<8> b(a);
+  cout << "Before flip: value = " << a << " | bits = " << b << endl;
+  
+  // Main logic for lowest '1' bit to be flipped:
+  a = (a-1) & a;
+  
+  b = bitset<8>(a);
+  cout << "After flip: value = " << a << " | bits = " << b << endl;
+
+  return 0;
+}
+{% endhighlight %}
+
+> Question 2: Write code to traverse a Binary Tree by inorder, preorder, and postorder traversals.
 <ul>
 <li>This one I knew easily and I think he gave it to me because I screwed up the previous question. I am not going to write out the answers here but link you to the code I wrote for a library to do this: <a href="https://github.com/calebwherry/Cpp-Libraries/blob/master/lib/DataStructures/BinaryTree.hpp" target="_blank">BinaryTree implementation</a>.</li>
 </ul>
