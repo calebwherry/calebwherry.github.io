@@ -175,90 +175,109 @@ int main()
 </div>
 
 > Question 2: Write code to traverse a Binary Tree by inorder, preorder, and postorder traversals.
-<ul>
-<li>This one I knew easily and I think he gave it to me because I screwed up the previous question. I am not going to write out the answers here but link you to the code I wrote for a library to do this: <a href="https://github.com/calebwherry/Cpp-Libraries/blob/master/lib/DataStructures/BinaryTree.hpp" target="_blank">BinaryTree implementation</a>.</li>
-</ul>
-<p>Question 3: Write a default constructor, custom constructor, destructor, copy constructor, and assignment operator for a given class with a character array as a private data member.</p>
-<ul>
-<li>This question was straight forward and just took some time to write on the board. I think it is a very good question because it sees if the person knows the difference between some fundamental principles in C++ and also if they are familiar with deep vs shallow copy. I think I goofed on the syntax for the operator overloading during the actual interview but here is a working solution.</li>
-</ul>
+
+This one I knew easily and I think he gave it to me because I screwed up the previous question. I am not going to write out the answers here but link you to the code I wrote for a library to do this: <a href="https://github.com/calebwherry/Cpp-Libraries/blob/master/lib/DataStructures/BinaryTree.hpp" target="_blank">BinaryTree implementation</a>.
+
+> Question 3: Write a default constructor, custom constructor, destructor, copy constructor, and assignment operator for a given class with a character array as a private data member.
+
+This question was straight forward and just took some time to write on the board. I think it is a very good question because it sees if the person knows the difference between some fundamental principles in C++ and also if they are familiar with deep vs shallow copy. I think I goofed on the syntax for the operator overloading during the actual interview but here is a working solution.
+
 <div class="accordion">
 <h6>Click for Code</h6>
 <div>
-[code language="cpp"]<br />
-#include &lt;cstring&gt;<br />
-#include &lt;iostream&gt;</p>
-<p>using namespace std;</p>
-<p>class MyClass<br />
-{</p>
-<p>  private:</p>
-<p>    char* data;</p>
-<p>  public:</p>
-<p>    // Default constructor:<br />
-    MyClass()<br />
-    {<br />
-      data = new char[0];<br />
-    }   </p>
-<p>    // Custom constructor:<br />
-    MyClass(char* data_)<br />
-    {<br />
-      data = new char[strlen(data_)];<br />
-      strcpy(data, data_);<br />
-    }   </p>
-<p>    // Destructor:<br />
-    ~MyClass()<br />
-    {<br />
-      delete[] data;<br />
-    }   </p>
-<p>    // Assignment operator:<br />
-    MyClass&amp; operator= (const MyClass &amp;rhs)<br />
-    {<br />
-      // Check for self-assignment:<br />
-      if( this == &amp;rhs)<br />
-      {<br />
-        return *this;<br />
-      }   </p>
-<p>      // Copy contents:<br />
-      data = new char[strlen(rhs.data)];<br />
-      strcpy(data, rhs.data);</p>
-<p>      // Return obj:<br />
-      return *this;<br />
-    }</p>
-<p>    // Print function:<br />
-    void display()<br />
-    {<br />
-      cout &lt;&lt; &quot;Data: &quot;;</p>
-<p>      size_t size = strlen(data);</p>
-<p>      for (int i=0; i&lt;size; ++i)<br />
-      {<br />
-        cout &lt;&lt; data[i];<br />
-      }</p>
-<p>      cout &lt;&lt; endl;<br />
-    }</p>
-<p>};</p>
-<p>int main()<br />
-{</p>
-<p>  char data[] = &quot;hello&quot;;<br />
-  MyClass c1, c2(data);</p>
-<p>  c1.display();<br />
-  c2.display();</p>
-<p>  c1 = c2;</p>
-<p>  c1.display();<br />
-  c2.display();</p>
-<p>  return 0;</p>
-<p>}<br />
-[/code]
-</p></div>
+{% highlight cpp linenos %}
+#include <cstring>
+#include <iostream>
+
+using namespace std;
+
+class MyClass
+{
+private:
+  char* data;
+  
+public:
+
+  // Default constructor:
+  MyClass()
+  {
+    data = new char[0];
+  }
+  
+  // Custom constructor:
+  MyClass(char* data_)
+  {
+    data = new char[strlen(data_)];
+    strcpy(data, data_);
+  }
+  
+  // Destructor:
+  ~MyClass()
+  {
+    delete[] data;
+  }
+  
+  // Assignment operator:
+  MyClass& operator=(const MyClass& rhs)
+  {
+    // Check for self-assignment:
+    if( this == &rhs)
+    {
+      return *this;
+    }
+    
+    // Copy contents:
+    data = new char[strlen(rhs.data)];
+    strcpy(data, rhs.data);
+    
+    // Return obj:
+    return *this;
+  }
+  
+  // Print function:
+  void display()
+  {
+    cout << "Data: ";
+    
+    size_t size = strlen(data);
+    for (int i=0; i<size; ++i)
+    {
+      cout << data[i];
+    }
+    cout << endl;
+  }
+};
+
+int main()
+{
+  char data[] = "hello";
+  
+  MyClass c1, c2(data);
+  c1.display();
+  c2.display();
+  
+  c1 = c2;
+  c1.display();
+  c2.display();
+  
+  return 0;
+}
+{% endhighlight %}
 </div>
-<hr />
-<h3>Institute for Quantum Computing - Offer Accepted (Summer 2010)</h3>
-<p>There was no interview for this position (Research Scholar), I just submitted by resume and a cover letter for a 2-week summer school program in Quantum Information Science. The position was also awarded with my acceptance into the summer school.</p>
-<hr />
-<h3>NASA Marshall Space Flight Center (Internship) - Declined Offer</h3>
-<p>I had a few email correspondences with my potential boss and then we had a phone interview. I had already had some experience with Genetic Algorithms and this was specifically for doing some work in that area. He asked me some basic questions about GAs and my software development experience, nothing too serious. In the end I really wanted the position at IQC (above) so I declined this offer.</p>
-<hr />
-<h3>Amazon - No Offer</h3>
-<p>I really can't remember this interview very much. They flew me out to Seattle and that's about all I remember! Here are the 2 questions I do remember:</p>
+</div>
+
+### Institute for Quantum Computing - Offer Accepted (Summer 2010)
+
+There was no interview for this position (Research Scholar), I just submitted by resume and a cover letter for a 2-week summer school program in Quantum Information Science. The position was also awarded with my acceptance into the summer school.
+
+### NASA Marshall Space Flight Center (Internship) - Declined Offer
+
+I had a few email correspondences with my potential boss and then we had a phone interview. I had already had some experience with Genetic Algorithms and this was specifically for doing some work in that area. He asked me some basic questions about GAs and my software development experience, nothing too serious. In the end I really wanted the position at IQC (above) so I declined this offer.
+
+### Amazon - No Offer
+
+I really can't remember this interview very much. They flew me out to Seattle and that's about all I remember! Here are the 2 questions I do remember:
+
 <p>Question 1: Given a clock with an hour and minute hand, find the degrees between the hands.</p>
 <ul>
 <li>This is a neat little problem. On the whiteboard I wrote out all the math for this problem but it all reduces to the code below.</li>
