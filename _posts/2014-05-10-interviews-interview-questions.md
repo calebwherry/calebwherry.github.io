@@ -171,6 +171,8 @@ int main()
   return 0;
 }
 {% endhighlight %}
+</div>
+</div>
 
 > Question 2: Write code to traverse a Binary Tree by inorder, preorder, and postorder traversals.
 <ul>
