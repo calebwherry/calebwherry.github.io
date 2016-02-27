@@ -3,8 +3,8 @@ layout: post
 title: "New Website"
 date: 02-27-2016
 modified:
-draft: true
-publish: false
+draft: false
+publish: true
 comments: true
 share: true
 categories:
