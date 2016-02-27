@@ -2,7 +2,7 @@
 layout: post
 title: "New Website"
 date: 2016-02-27
-modified:
+modified: 2016-02-27
 draft: false
 publish: true
 comments: true
