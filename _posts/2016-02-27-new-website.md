@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New Website"
-date: 02-27-2016
+date: 2016-02-27
 modified:
 draft: false
 publish: true
