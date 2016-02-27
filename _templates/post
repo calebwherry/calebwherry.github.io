@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Test"
-excerpt: " Test"
-date: XXXX-XX-XX
-modified: XXXX-XX-XX
-status: draft
-published: false
+title: "Title"
+date: MM-DD-YYYY
+modified: MM-DD-YYYY
+draft: true
+publish: false
 comments: true
 share: true
-categories: []
-tags: []
+categories:
+- testcategory
+tags:
+- testtag
 image:
   feature: main-banner-2.jpg
 ---
