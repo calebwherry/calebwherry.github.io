@@ -9,11 +9,11 @@ image:
 
 ### Interests
 
+* Scientific Computing
 * Co-design for Next-Generation Heterogeneous Systems
-* Quantum Algorithms
 * Genetic Algorithms
+* Quantum Algorithms
 * Computational Complexity Theory
-* Agile Software Engineering Methodologies
 * Quantum Information Theory
 
 ### Projects
