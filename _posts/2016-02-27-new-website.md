@@ -19,4 +19,4 @@ I have finally gotten around to getting my new website setup like I want it. I w
 
 I am still going through and fixing all my old blog posts to be correctly formatted MarkDown so some of them will look a bit funny until then. I also currently have an issue with my library software: it has decided to duplicate all the books in the library for no apparent reason.
 
-Enjoy the new site!
+Enjoy the new site! 
