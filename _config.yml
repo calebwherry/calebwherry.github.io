@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            calebwherry.github.io
+title:            calebwherry.com
 locale:           en_US
-url:              http://calebwherry.github.io
+url:              http://www.calebwherry.com
 
 
 # Jekyll configuration
