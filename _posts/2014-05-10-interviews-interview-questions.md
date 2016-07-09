@@ -128,45 +128,18 @@ I had a few email correspondences with my potential boss and then we had a phone
 
 I really can't remember this interview very much. They flew me out to Seattle and that's about all I remember! Here are the 2 questions I do remember:
 
-<p>Question 1: Given a clock with an hour and minute hand, find the degrees between the hands.</p>
-<ul>
-<li>This is a neat little problem. On the whiteboard I wrote out all the math for this problem but it all reduces to the code below.</li>
-</ul>
-<div class="accordion">
-<h6>Click for Code</h6>
-<div>
-[code language="cpp"]<br />
-#include &lt;iostream&gt;<br />
-#include &lt;math.h&gt;</p>
-<p>using namespace std;</p>
-<p>int main()<br />
-{</p>
-<p>  // Constants for Time:<br />
-  const int HOUR = 12,<br />
-            MINUTE = 30; </p>
-<p>  // Degree variables:<br />
-  double hourDegrees = 0.0,<br />
-         minuteDegrees = 0.0,<br />
-         totalDegrees = 0.0;</p>
-<p>  // Calculations:<br />
-  hourDegrees = 0.5 * (60*HOUR + MINUTE);<br />
-  minuteDegrees = 6*MINUTE;<br />
-  totalDegrees = fabs(hourDegrees - minuteDegrees);<br />
-  totalDegrees = fmin(totalDegrees, 360-totalDegrees);</p>
-<p>  // Display result:<br />
-  cout &lt;&lt; &quot;Time - &quot; &lt;&lt; HOUR &lt;&lt; &quot;:&quot; &lt;&lt; MINUTE &lt;&lt; endl;<br />
-  cout &lt;&lt; &quot;Degrees between hands: &quot; &lt;&lt; totalDegrees &lt;&lt; endl;</p>
-<p>  return 0;</p>
-<p>}<br />
-[/code]
-</p></div>
-</div>
-<p>Question 2: How would you efficiently implement "Best Selling Items" on Amazon's main page?</p>
-<ul>
-<li>There was a lot of detail that went into this question since I tied like 3 different data structures together. I know that I had a Heap tied to a Binary Tree but other than that I don't remember what I did.</li>
-</ul>
-<hr />
-<h3>Luna Innovations Incorporated - Accepted Offer (May 2011 - August 2012)</h3>
+> Question 1: Given a clock with an hour and minute hand, find the degrees between the hands.
+
+This is a neat little problem. On the whiteboard I wrote out all the math for this problem but it all reduces to the code below.
+
+<script src="http://ideone.com/e.js/FZEQno" type="text/javascript" ></script>
+
+> Question 2: How would you efficiently implement "Best Selling Items" on Amazon's main page?
+
+There was a lot of detail that went into this question since I tied like 3 different data structures together. I know that I had a Heap tied to a Binary Tree but other than that I don't remember what I did.
+
+### Luna Innovations Incorporated - Accepted Offer (May 2011 - August 2012)
+
 <p>Pretty easy interview overall, I was expecting something tougher. Only a few technical questions.</p>
 <p>Question 1: What is a D Flip-flop and what is it used for?</p>
 <ul>
