@@ -16,7 +16,8 @@ image:
   feature: main-banner-2.jpg
 ---
 
-* The Inifinity Gauntlet (Omnibus)
+* The Inifinity Gauntlet Omnibus (Comic)
 * Ready Player One - Ernest Cline
-* Consider Phlebas - Ian Banks
 * Harry Potter 3 - JKR
+* Consider Phlebas - Ian Banks
+* Kindred - Octavia Butler (GN adaptation)
