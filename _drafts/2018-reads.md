@@ -16,6 +16,7 @@ image:
   feature: main-banner-2.jpg
 ---
 
+* American Gods - Neil Gaiman
 * The Inifinity Gauntlet Omnibus (Comic)
 * Ready Player One - Ernest Cline
 * Harry Potter 3 - JKR
