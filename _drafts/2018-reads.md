@@ -22,3 +22,5 @@ image:
 * Harry Potter 3 - JKR
 * Consider Phlebas - Ian Banks
 * Kindred - Octavia Butler (GN adaptation)
+* Spawn Origina Vol 1 - McFarlane
+* Plastic - Wagner
