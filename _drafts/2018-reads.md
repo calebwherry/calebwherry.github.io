@@ -24,3 +24,4 @@ image:
 * Kindred - Octavia Butler (GN adaptation)
 * Spawn Origins Vol 1 - McFarlane
 * Plastic - Wagner
+* Queen of the Damned - Ann Rice
