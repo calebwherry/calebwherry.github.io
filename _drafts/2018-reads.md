@@ -27,3 +27,4 @@ image:
 * Queen of the Damned - Ann Rice
 * Player of Games - Ian Banks
 * The Beauty (vol 1-3) - GN - Haun
+* The Vision (vol 1) - comic - King
