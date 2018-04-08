@@ -23,7 +23,7 @@ image:
 * Consider Phlebas - Ian Banks
 * Kindred - Octavia Butler (GN adaptation)
 * Spawn Origins Vol 1 - McFarlane
-* Plastic - Wagner
+* Plastic - GN - Wagner
 * Queen of the Damned - Ann Rice
 * Player of Games - Ian Banks
 * The Beauty (vol 1-3) - GN - Haun
