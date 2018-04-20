@@ -28,3 +28,4 @@ image:
 * Player of Games - Ian Banks
 * The Beauty (vol 1-3) - GN - Haun
 * The Vision (vol 1-2) - comic - King
+* DeathNote (Vol 1-6) - Ohba
