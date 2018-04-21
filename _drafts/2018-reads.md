@@ -16,17 +16,27 @@ image:
   feature: main-banner-2.jpg
 ---
 
-* American Gods - Neil Gaiman
-* The Inifinity Gauntlet Omnibus (Comic)
+Key:
+* UF - Unfinished
+* GN - Graphic Novel
+
+Reads:
+* American Gods - Neil Gaiman - UN
+* The Inifinity Gauntlet Omnibus
 * Ready Player One - Ernest Cline
 * Harry Potter 3 - JKR
+* 11-22-63 - Stephen King - UN
 * Consider Phlebas - Ian Banks
-* Kindred - Octavia Butler (GN adaptation)
-* Spawn Origins Vol 1 - McFarlane
+* Kindred - GN - Octavia Butler
+* Spawn Origins (vol 1) - McFarlane
 * Plastic - GN - Wagner
 * Queen of the Damned - Ann Rice
 * Player of Games - Ian Banks
 * The Beauty (vol 1-3) - GN - Haun
 * The Vision (vol 1-2) - comic - King
-* DeathNote (Vol 1-6) - Ohba
+* DeathNote (vol 1-6) - Ohba
 * Pride of Baghdad - GN - Vaughan
+* Discworld #18 Soul Music - Pratchett
+* Discworld #19 Interesting Times - Pratchett
+* Discworld #20 Maskerade - Pratchett
+* Discworld #21 Feet of Clay - Pratchett
