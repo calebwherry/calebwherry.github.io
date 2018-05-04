@@ -40,3 +40,4 @@ Reads:
 * Discworld #19 Interesting Times - Pratchett
 * Discworld #20 Maskerade - Pratchett
 * Discworld #21 Feet of Clay - Pratchett
+* Discworld #22 Hogfather - Pratchett
