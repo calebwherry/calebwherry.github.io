@@ -19,6 +19,7 @@ image:
 Key:
 * UF - Unfinished
 * GN - Graphic Novel
+* C - Comics
 
 Reads:
 * American Gods - Neil Gaiman - UN
@@ -41,4 +42,4 @@ Reads:
 * Discworld #20 Maskerade - Pratchett
 * Discworld #21 Feet of Clay - Pratchett
 * Discworld #22 Hogfather - Pratchett
-* The Omega Men - Comics 1-12 - Tom King
+* The Omega Men - C (1-12) - Tom King
