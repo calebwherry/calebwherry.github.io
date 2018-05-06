@@ -41,3 +41,4 @@ Reads:
 * Discworld #20 Maskerade - Pratchett
 * Discworld #21 Feet of Clay - Pratchett
 * Discworld #22 Hogfather - Pratchett
+* The Omega Men - Comics 1-12 - Tom King
