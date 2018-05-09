@@ -22,11 +22,11 @@ Key:
 * C - Comics
 
 Reads:
-* American Gods - Neil Gaiman - UN
+* American Gods - Neil Gaiman - UF
 * The Inifinity Gauntlet Omnibus
 * Ready Player One - Ernest Cline
 * Harry Potter 3 - JKR
-* 11-22-63 - Stephen King - UN
+* 11-22-63 - Stephen King - UF
 * Consider Phlebas - Ian Banks
 * Kindred - GN - Octavia Butler
 * Spawn Origins (vol 1) - McFarlane
