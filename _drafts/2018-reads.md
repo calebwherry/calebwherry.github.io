@@ -43,3 +43,4 @@ Reads:
 * Discworld #21 Feet of Clay - Pratchett
 * Discworld #22 Hogfather - Pratchett
 * The Omega Men - C (1-12) - Tom King
+* The Death of Superman - C - Jurgens
