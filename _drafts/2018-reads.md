@@ -45,3 +45,4 @@ Reads:
 * The Omega Men - C (1-12) - Tom King
 * The Death of Superman - C - Jurgens
 * Suicide Squad (New 52, Vol 1) - C - Glass
+* Judge Dredd (Ennis Collection) - GN - Garth Ennis
