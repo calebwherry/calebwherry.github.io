@@ -19,7 +19,7 @@ image:
 Key:
 * UF - Unfinished
 * GN - Graphic Novel
-* C - Comics
+* C - Comic
 
 Reads:
 * American Gods - Neil Gaiman - UF
@@ -46,3 +46,4 @@ Reads:
 * The Death of Superman - C - Jurgens
 * Suicide Squad (New 52, Vol 1) - C - Glass
 * Judge Dredd (Ennis Collection) - GN - Garth Ennis
+* Ringworld - Larry Niven
