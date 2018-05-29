@@ -47,3 +47,4 @@ Reads:
 * Suicide Squad (New 52, Vol 1) - C - Glass
 * Judge Dredd (Ennis Collection) - GN - Garth Ennis
 * Ringworld - Larry Niven
+* Suicide Squad (New 52, Vol 2) - C - Glass
