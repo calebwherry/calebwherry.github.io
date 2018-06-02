@@ -48,3 +48,4 @@ Reads:
 * Judge Dredd (Ennis Collection) - GN - Garth Ennis
 * Ringworld - Larry Niven
 * Suicide Squad (New 52, Vol 2) - C - Glass
+* A Walk Through Hell - C (#1) - Garth Ennis
