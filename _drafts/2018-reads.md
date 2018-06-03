@@ -57,3 +57,6 @@ Status Key:
 | Ringworld                       | Niven     | B     |         |         |
 | Suicide Squad - New 52          | Glass     | C     | 2       |         |
 | A Walk Through Hell             | Ennis     | C     | 1       |         |
+
+
+* Harry Potter and the Cursed Child - Rowling - B
