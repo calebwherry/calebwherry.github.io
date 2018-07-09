@@ -28,7 +28,7 @@ Status Key:
 
 **Note**: DiscWorld numbering based on: http://discworld.wikia.com/wiki/List_of_Discworld_Books
 
-# Reads:
+# Reads
 
 | Name                               | Author    | Type  | Volumes | Status  |
 |------------------------------------|-----------|-------|---------|---------|
