@@ -64,5 +64,7 @@ Status Key:
 | Miracleman                         | Moore     | C     | Book 1  |         |
 | The Technology of the Orgasm       | Maines    | B     |         |         |
 | Discworld #24 - The Last Continent | Pratchett | AB    |         |         |
-
-Shadowman: Fear of the Dark - Vol 1 - Diggle
+| Shadowman: Fear of the Dark        | Diggle    | C     | 1       |         |
+| The Immortal Hulk                  | Ewing     | C     | 1       |         |
+| Maneaters                          | Cain      | C     | 1-2     |         |
+| The Barack Panther                 | Shannon   | C     | 1       |         |
