@@ -68,3 +68,4 @@ Status Key:
 | The Immortal Hulk                  | Ewing     | C     | 1       |         |
 | Maneaters                          | Cain      | C     | 1-2     |         |
 | The Barack Panther                 | Shannon   | C     | 1       |         |
+| Hitchhiker's Guide to the Galaxy   | Adams     | AB    |         |         |
