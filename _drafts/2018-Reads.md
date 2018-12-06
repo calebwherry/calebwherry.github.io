@@ -70,8 +70,8 @@ Status Key:
 | The Barack Panther                 | Shannon   | C     | 1       |         |                     |
 | Hitchhiker's Guide to the Galaxy   | Adams     | AB    |         |         | Re-read             |
 | Nightflyers                        | Martin    | B     |         |         |                     |
-
-# Currently reading:
-
+|------------------------------------|-----------|-------|---------|---------|---------------------|
+| Currently Reading                  |           |       |         |         |                     |
+|------------------------------------|-----------|-------|---------|---------|---------------------|
 | The Emperor of All Maladies        | Mukherjee | B     |         |         |                     |
 | The Hobbit                         | Tolkien   | B     |         |         | Re-read             |
