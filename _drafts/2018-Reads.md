@@ -71,6 +71,7 @@ Status Key:
 | Hitchhiker's Guide to the Galaxy   | Adams     | AB    |         |         | Re-read             |
 | Nightflyers                        | Martin    | B     |         |         |                     |
 | The Hobbit                         | Tolkien   | B     |         |         | Re-read             |
+| Miracleman                         | Moore     | C     | Book 2  |         |                     |
 |------------------------------------|-----------|-------|---------|---------|---------------------|
 | Currently Reading                  |           |       |         |         |                     |
 |------------------------------------|-----------|-------|---------|---------|---------------------|
