@@ -69,6 +69,7 @@ Type Key:
 | Nightflyers                        | Martin    | B     |         |                     |
 | The Hobbit                         | Tolkien   | B     |         | Re-read             |
 | Miracleman                         | Moore     | C     | Book 2  |                     |
+| The Tales of Beedle the Bard       | Rowling   | B     |         | Re-read             |
 |------------------------------------|-----------|-------|---------|---------------------|
 | Currently Reading                  |           |       |         |                     |
 |------------------------------------|-----------|-------|---------|---------------------|
