@@ -390,6 +390,13 @@ textarea {
  * Remove most spacing between table cells.
  */
 
+
+$spacing-unit:     30px !default;
+$table-text-align: left !default;
+$text-color:       #111 !default;
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+
 table {
   margin-bottom: $spacing-unit;
   width: 100%;
