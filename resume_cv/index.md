@@ -10,7 +10,9 @@ image:
   feature: main-banner-2.jpg
 ---
 
-Resume:
+# Resume (short)
+
+My short resume that fits on one page.
 
 <iframe
     src="https://docs.google.com/viewer?srcid=1GLm6oOyI9tQXBnyPRwpHssoLn1NyDgHg&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
@@ -19,7 +21,22 @@ Resume:
     style="border: none;">
 </iframe>
 
-CV:
+
+# Resume (long)
+
+My longer resume with a bit more detail.
+
+<iframe
+    src="https://docs.google.com/viewer?srcid=0B9aId9jAWLcQa01sS1BaSGhobGs&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
+    width="700" 
+    height="600" 
+    style="border: none;">
+</iframe>
+
+
+# CV
+
+My full blown CV with all details going back to undergraduate.
 
 <iframe
     src="https://docs.google.com/viewer?srcid=0B9aId9jAWLcQejdJQ3JxS0k1TmM&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
