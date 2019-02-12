@@ -10,7 +10,7 @@ image:
   feature: main-banner-2.jpg
 ---
 
-# Resume (short)
+## Resume (short)
 
 My short resume that fits on one page.
 
@@ -22,7 +22,7 @@ My short resume that fits on one page.
 </iframe>
 
 
-# Resume (long)
+## Resume (long)
 
 My longer resume with a bit more detail.
 
@@ -34,7 +34,7 @@ My longer resume with a bit more detail.
 </iframe>
 
 
-# CV
+## CV
 
 My full blown CV with all details going back to undergraduate.
 
