@@ -33,28 +33,9 @@ owner:
   disqus-shortname: vivalascience
   twitter: calebwherry
   facebook: calebwherry
-  google:
-    plus: JCalebWherry
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
   github: calebwherry
   stackoverflow: 408160/caleb
   linkedin: calebwherry
-  xing: #username
-  instagram: calebwherry
-  lastfm: #username
-  tumblr: calebwherry
-  pinterest: calebwherry
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
