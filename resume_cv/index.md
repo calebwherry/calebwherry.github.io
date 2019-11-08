@@ -12,7 +12,7 @@ image:
 
 ## Resume
 
-My short resume that fits on one page.
+One pager:
 
 <iframe
     src="https://docs.google.com/viewer?srcid=1p9_pBfq10MRhLnrJRUDjhUA_rE2SPvCT&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
@@ -23,7 +23,7 @@ My short resume that fits on one page.
 
 ## CV
 
-My full blown CV with details going back to undergraduate.
+Full blown CV with details going back to undergraduate:
 
 <iframe
     src="https://docs.google.com/viewer?srcid=0B9aId9jAWLcQejdJQ3JxS0k1TmM&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
