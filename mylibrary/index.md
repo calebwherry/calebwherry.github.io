@@ -10,7 +10,7 @@ image:
   feature: main-banner-2.jpg
 ---
 
-<iframe src="https://connect.collectorz.com/m/users/meaganandcaleb/books/view?viewCollection=all&viewType=cover"
+<iframe src="https://cloud.collectorz.com/meaganandcaleb/books"
 width="700"
 height="825"
 frameborder="1"
