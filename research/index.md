@@ -20,7 +20,7 @@ image:
 
 #### Computational & Topological Optimization Techniques In Genetic Algorithms
 
-This project is on-going and contains many different aspects. Most of the parts are in collaboration with <a href="http://www.robertdfrench.me">Robert D. French</a>
+This project is on-going and contains many different aspects. Most of the parts are in collaboration with <a href="https://www.robertdfrench.me">Robert D. French</a>
 
 #### Shor's Quantum Factoring Algorithm
 
@@ -28,7 +28,7 @@ Ever since visiting MIT for a Quantum Information Science summer school back in 
 
 **Wherry, J.C.** *A Complexity Analysis of Shor's Quantum Factoring Algorithm* [<a target="_blank" href="https://docs.google.com/file/d/0B9aId9jAWLcQOXkyR0I2cGFCSzQ/edit">PDF</a>]
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/8383362?rel=0" 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/8383362?rel=0" 
 	width="342"
 	height="291" 
 	frameborder="0" 
@@ -52,7 +52,7 @@ Work done while at the Perimeter Institute for Theoretical Physics in Waterloo, 
 
 I worked on fractals when I was in undergrad with Dr. Ben Ntatin. It was a very interesting project and the route that Dr. Ntatin took was much different than I initially thought it was going to be.
 
-<iframe src="http://www.slideshare.net/slideshow/embed_code/8383246?rel=0" 
+<iframe src="https://www.slideshare.net/slideshow/embed_code/8383246?rel=0" 
 	width="342" 
 	height="291" 
 	frameborder="0" 
