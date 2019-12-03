@@ -11,6 +11,6 @@ image:
 
 Welcome to my site! You will find various items here related to my research, career, and hobbies. I try and post as often as life permits on my blog [*Viva la Science*](blog) about lots of different topics: software, technology, physics, mathematics, etc. Feedback is always welcome so comment away!
 
-I am currently a Principal Software Engineer at [Nexidia, Inc.](http://www.nexidia.com) and a graduate student in Computer Science at the Georgia Institute of Technology.
+I am currently a Principal Software Engineer at [Nexidia, Inc.](http://www.nexidia.com) and a graduate student in Computer Science at the Georgia Institute of Technology (on hiatus).
 
 Feel free to contact me by any means from the left!
