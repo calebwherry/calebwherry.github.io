@@ -140,19 +140,18 @@ There was a lot of detail that went into this question since I tied like 3 diffe
 
 ### Luna Innovations Incorporated - Accepted Offer (May 2011 - August 2012)
 
-<p>Pretty easy interview overall, I was expecting something tougher. Only a few technical questions.</p>
-<p>Question 1: What is a D Flip-flop and what is it used for?</p>
-<ul>
-<li>Data input and clock input that flips the data when a certain clock edge is encountered (high or low). Used as an elementary memory gate.</li>
-</ul>
-<p>Question 2: In a graph, what is the difference between a Hamiltonian Path and Hamiltonian Cycle?</p>
-<ul>
-<li>A Hamiltonian path is a path on a graph that touches every vertex only once. A Hamiltonian cycle is a Hamiltonian path that also creates a cycle.</li>
-</ul>
-<p>Question 3: Given an item and 2 iterators, write a function to tell if the item is contained between the two iterators.</p>
-<div class="accordion">
-<h6>Click for Code</h6>
-<div>
+Pretty easy interview overall, I was expecting something tougher. Only a few technical questions.
+
+> Question 1: What is a D Flip-flop and what is it used for?
+
+Data input and clock input that flips the data when a certain clock edge is encountered (high or low). Used as an elementary memory gate.
+
+> Question 2: In a graph, what is the difference between a Hamiltonian Path and Hamiltonian Cycle?
+
+A Hamiltonian path is a path on a graph that touches every vertex only once. A Hamiltonian cycle is a Hamiltonian path that also creates a cycle.
+
+> Question 3: Given an item and 2 iterators, write a function to tell if the item is contained between the two iterators.
+
 ``` cpp
 #include &lt;iostream&gt;<br />
 #include &lt;vector&gt;</p>
@@ -192,9 +191,9 @@ T find(S data, T start, T end)<br />
 <p>  return 0;</p>
 <p>}<br />
 ```
-</p></div>
-</div>
+
 <hr />
+
 <h3>Virginia Tech - Accepted Offer (August 2012 - May 2014)</h3>
 <p>I did not know what to think going into this interview. I thought it was going to be somewhat technical but it turned out to not be technical at all. Just a lot of questions about working with people and projects I had worked on. I only had an onsite interview since they were looking locally.</p>
 <hr />
