@@ -153,7 +153,7 @@ There was a lot of detail that went into this question since I tied like 3 diffe
 <div class="accordion">
 <h6>Click for Code</h6>
 <div>
-[code language="cpp"]<br />
+``` cpp
 #include &lt;iostream&gt;<br />
 #include &lt;vector&gt;</p>
 <p>using namespace std;</p>
@@ -191,7 +191,7 @@ T find(S data, T start, T end)<br />
   }</p>
 <p>  return 0;</p>
 <p>}<br />
-[/code]
+```
 </p></div>
 </div>
 <hr />
