@@ -154,49 +154,55 @@ A Hamiltonian path is a path on a graph that touches every vertex only once. A H
 
 <details><summary>Click for Code</summary>
  <p>
+   
 ```cpp
-#include &lt;iostream&gt;<br />
-#include &lt;vector&gt;</p>
-<p>using namespace std;</p>
-<p>template &lt;typename S, typename T&gt;<br />
-T find(S data, T start, T end)<br />
-{</p>
-<p>  while (start != end)<br />
-  {</p>
-<p>    if (*start == data)<br />
-    {<br />
-      return start;<br />
-    }   </p>
-<p>    start++;</p>
-<p>  }</p>
-<p>  // Return end if not found:<br />
-  return end;</p>
-<p>};</p>
-<p>int main()<br />
-{</p>
-<p>  // Data to find:<br />
-  int findMe = 6;</p>
-<p>  vector&lt;int&gt; myData;</p>
-<p>  for (int i=0; i&lt;10; ++i)<br />
-  {<br />
-    myData.push_back(i);<br />
-  }<br />
-  auto iter = find(findMe, myData.begin(), myData.end());</p>
-<p>  if (iter == myData.end())<br />
-  {<br />
-    cout &lt;&lt; &quot;Data not found!&quot; &lt;&lt; endl;<br />
-  }<br />
-  else<br />
-  {<br />
-    cout &lt;&lt; &quot;Data found!&quot; &lt;&lt; endl;<br />
-  }</p>
-<p>  return 0;</p>
-<p>}<br />
+#include <iostream>
+#include <vector>
+
+using namespace std;
+
+template <typename S, typename T>
+T find(S data, T start, T end)
+{
+  while (start != end)
+  {
+    if (*start == data)
+    {
+      return start;
+    }
+    start++;</p>
+  }
+  
+  // Return end if not found:
+  return end;
+}
+
+int main()
+{
+  // Data to find:
+  int findMe = 6;
+  vector<int> myData;
+  for (int i=0; i<10; ++i)
+  {
+    myData.push_back(i);
+  }
+  
+  auto iter = find(findMe, myData.begin(), myData.end());
+  if (iter == myData.end())
+  {
+    cout << "Data not found!" << endl;
+  }
+  else
+  {
+    cout << "Data found!" << endl;
+  }
+
+  return 0;
+}
 ```
+
 </p>
 </details>
-
-<hr />
 
 ### Virginia Tech - Accepted Offer (August 2012 - May 2014)
 
