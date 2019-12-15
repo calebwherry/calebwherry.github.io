@@ -155,7 +155,7 @@ A Hamiltonian path is a path on a graph that touches every vertex only once. A H
 <details><summary>Click for Code</summary>
  <p>
    
-```cpp
+``` cpp
 #include <iostream>
 #include <vector>
 
