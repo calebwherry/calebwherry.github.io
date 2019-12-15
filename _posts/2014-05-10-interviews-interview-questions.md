@@ -153,7 +153,7 @@ A Hamiltonian path is a path on a graph that touches every vertex only once. A H
 > Question 3: Given an item and 2 iterators, write a function to tell if the item is contained between the two iterators.
 
 <details><summary>Click for Code</summary>
- <p>
+<p>
    
 ``` cpp
 #include <iostream>
