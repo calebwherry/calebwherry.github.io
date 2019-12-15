@@ -152,7 +152,9 @@ A Hamiltonian path is a path on a graph that touches every vertex only once. A H
 
 > Question 3: Given an item and 2 iterators, write a function to tell if the item is contained between the two iterators.
 
-``` cpp
+<details><summary>Click for Code</summary>
+ <p>
+```cpp
 #include &lt;iostream&gt;<br />
 #include &lt;vector&gt;</p>
 <p>using namespace std;</p>
@@ -191,10 +193,13 @@ T find(S data, T start, T end)<br />
 <p>  return 0;</p>
 <p>}<br />
 ```
+</p>
+</details>
 
 <hr />
 
-<h3>Virginia Tech - Accepted Offer (August 2012 - May 2014)</h3>
+### Virginia Tech - Accepted Offer (August 2012 - May 2014)
+
 <p>I did not know what to think going into this interview. I thought it was going to be somewhat technical but it turned out to not be technical at all. Just a lot of questions about working with people and projects I had worked on. I only had an onsite interview since they were looking locally.</p>
 <hr />
 <h3>Virginia Tech Transportation Institute - Declined Offer</h3>
