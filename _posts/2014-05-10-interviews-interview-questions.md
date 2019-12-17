@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Interviews & Interview Questions"
-date: 2014-05-10T00:00:00.000Z
+date: 2014-05-10
+modified: 2019-12-16
 status: publish
 comments: true
 share: true
@@ -54,9 +55,7 @@ I took the first 10 minutes or so to talk through some ideas I had for this ques
 
 > Question 2: Given a list of increasing numbers, how would you turn that list into spreadsheet headings (A-Z, AA-ZZ, AAA-ZZZ, etc)?
 
-I really screwed this question up and it cost me the internship I think. I could not get the inner loop logic correct and the interviewer didn't give me any help. This meant the question took up the whole 20 minutes we had and she didn't seem too impressed. Oh well, it would have been cool to intern at Google but I took NASA instead which was pretty badass. Here is a particular implementation that works.
-
-<script src="http://ideone.com/e.js/n4TgDm" type="text/javascript" ></script>
+I really screwed this question up and it cost me the internship I think. I could not get the inner loop logic correct and the interviewer didn't give me any help. This meant the question took up the whole 20 minutes we had and she didn't seem too impressed. Oh well, it would have been cool to intern at Google but I took NASA instead which was pretty badass.
 
 ### IBM (Internship) - Wait-listed
 
@@ -80,9 +79,7 @@ This interview was pretty fun, it was for IBM's Extreme Blue Internship, their e
 
 > Question 3: How would you find all phone numbers in a given file?
 
-Most people would use awk or sed to accomplish this but I prefer grep! The one below is a little bit fancier than the one I came up with in the interview (this one takes into account spaces) but I couldn't help sprucing it up.
-
-<script src="http://ideone.com/e.js/OpmmJT" type="text/javascript" ></script>
+Most people would use awk or sed to accomplish this but I prefer grep! Pretty easy if you know how to use regular expressions.
 
 > Question 4: Describe the 3 pillars of OOP.
 
@@ -102,9 +99,7 @@ Interviewing with M$ was a lot of fun, which I didn't expect! They flew me out t
 
 > Question 1: Flip the least significant '1' bit in a given integer.
 
-I spent waaaay too long on this question and didn't get the answer. It was a super simple answer and the guy had a smirk on his face the entire time I was at the whiteboard. I went through trying to convert the integer to a string and then finding the last significant and flipping it. This was pretty ridiculous, to say the least. I have highlighted the line below that does the logic to flip the bit.
-
-<script src="http://ideone.com/e.js/2hp1M3" type="text/javascript" ></script>
+I spent waaaay too long on this question and didn't get the answer. It was a super simple answer and the guy had a smirk on his face the entire time I was at the whiteboard. I went through trying to convert the integer to a string and then finding the last significant and flipping it. This was pretty ridiculous, to say the least. All you have to do is b = (a-1) & a.
 
 > Question 2: Write code to traverse a Binary Tree by inorder, preorder, and postorder traversals.
 
@@ -112,9 +107,7 @@ This one I knew easily and I think he gave it to me because I screwed up the pre
 
 > Question 3: Write a default constructor, custom constructor, destructor, copy constructor, and assignment operator for a given class with a character array as a private data member.
 
-This question was straight forward and just took some time to write on the board. I think it is a very good question because it sees if the person knows the difference between some fundamental principles in C++ and also if they are familiar with deep vs shallow copy. I think I goofed on the syntax for the operator overloading during the actual interview but here is a working solution.
-
-<script src="http://ideone.com/e.js/Eh7XOx" type="text/javascript" ></script>
+This question was straight forward and just took some time to write on the board. I think it is a very good question because it sees if the person knows the difference between some fundamental principles in C++ and also if they are familiar with deep vs shallow copy. I think I goofed on the syntax for the operator overloading during the actual interview.
 
 ### Institute for Quantum Computing - Offer Accepted (Summer 2010)
 
@@ -130,9 +123,7 @@ I really can't remember this interview very much. They flew me out to Seattle an
 
 > Question 1: Given a clock with an hour and minute hand, find the degrees between the hands.
 
-This is a neat little problem. On the whiteboard I wrote out all the math for this problem but it all reduces to the code below.
-
-<script src="http://ideone.com/e.js/FZEQno" type="text/javascript" ></script>
+This is a neat little problem. On the whiteboard I wrote out all the math for this problem.
 
 > Question 2: How would you efficiently implement "Best Selling Items" on Amazon's main page?
 
@@ -170,7 +161,7 @@ T find(S data, T start, T end)
     {
       return start;
     }
-    start++;</p>
+    start++;
   }
   
   // Return end if not found:
