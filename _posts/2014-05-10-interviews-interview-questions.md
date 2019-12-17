@@ -142,9 +142,6 @@ Data input and clock input that flips the data when a certain clock edge is enco
 A Hamiltonian path is a path on a graph that touches every vertex only once. A Hamiltonian cycle is a Hamiltonian path that also creates a cycle.
 
 > Question 3: Given an item and 2 iterators, write a function to tell if the item is contained between the two iterators.
-
-<details><summary>Click for Code</summary>
-<p>
    
 ``` cpp
 #include <iostream>
@@ -191,9 +188,6 @@ int main()
   return 0;
 }
 ```
-
-</p>
-</details>
 
 ### Virginia Tech - Accepted Offer (August 2012 - May 2014)
 
