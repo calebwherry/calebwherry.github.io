@@ -49,13 +49,13 @@ No technical interview and no contact from potential boss. Accepted sight unseen
 
 This was my first interview with a big software tech company. It was after my sophomore year, during my 2nd NASA internship. I had 2 phone interviews but it didn't proceed any further. The questions were general at first about my school work then they ask me some technical questions. I don't remember them very much but here are the ones I do remember.
 
-> Question 1: How would you design ads to be displayed for a given 3 word query (example query: "red horse barn")? Keep in mind scalability!
+#### Question 1: How would you design ads to be displayed for a given 3 word query (example query: "red horse barn")? Keep in mind scalability!
 
-> > I took the first 10 minutes or so to talk through some ideas I had for this question since it was pretty broad. I don't recall what they were really but the interviewer shot down a lot of them. I then decided to take a more mathematical approach and talked about the binomial theorem and how that fleshed out problems for data structures that weren't hash-based (look-up being the major bottleneck). The interviewer was impressed with the mathematics I used and liked how I incorporated it into my hashing approach. I can't remember the actual details though.
+I took the first 10 minutes or so to talk through some ideas I had for this question since it was pretty broad. I don't recall what they were really but the interviewer shot down a lot of them. I then decided to take a more mathematical approach and talked about the binomial theorem and how that fleshed out problems for data structures that weren't hash-based (look-up being the major bottleneck). The interviewer was impressed with the mathematics I used and liked how I incorporated it into my hashing approach. I can't remember the actual details though.
 
-> Question 2: Given a list of increasing numbers, how would you turn that list into spreadsheet headings (A-Z, AA-ZZ, AAA-ZZZ, etc)?
+#### Question 2: Given a list of increasing numbers, how would you turn that list into spreadsheet headings (A-Z, AA-ZZ, AAA-ZZZ, etc)?
 
-> > I really screwed this question up and it cost me the internship I think. I could not get the inner loop logic correct and the interviewer didn't give me any help. This meant the question took up the whole 20 minutes we had and she didn't seem too impressed. Oh well, it would have been cool to intern at Google but I took NASA instead which was pretty badass.
+I really screwed this question up and it cost me the internship I think. I could not get the inner loop logic correct and the interviewer didn't give me any help. This meant the question took up the whole 20 minutes we had and she didn't seem too impressed. Oh well, it would have been cool to intern at Google but I took NASA instead which was pretty badass.
 
 ### IBM (Internship) - Wait-listed
 
