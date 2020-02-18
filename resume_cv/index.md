@@ -15,7 +15,7 @@ image:
 One pager:
 
 <iframe
-    src="https://docs.google.com/viewer?srcid=1p9_pBfq10MRhLnrJRUDjhUA_rE2SPvCT&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
+    src="https://docs.google.com/viewer?srcid=1iW74gwITDHM-J9bf5NTzsXbNsWHw4SSD&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
     width="700" 
     height="600" 
     style="border: none;">
@@ -26,7 +26,7 @@ One pager:
 Full blown CV with details going back to undergraduate:
 
 <iframe
-    src="https://docs.google.com/viewer?srcid=0B9aId9jAWLcQejdJQ3JxS0k1TmM&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
+    src="https://docs.google.com/viewer?srcid=1McoKsL9wvar2EhDMLJTUTGlJ_-5HlW0Z&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
     width="700" 
     height="600" 
     style="border: none;">
