@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Resume & Curriculum Vitae"
+title: "Resume"
 date: 2015-3-14
 modified: 2019-02-10
-excerpt: Resume & CV
-tags: resume cv
+excerpt: Resume
+tags: resume
 share: off
 image:
   feature: main-banner-2.jpg
@@ -21,9 +21,7 @@ One pager:
     style="border: none;">
 </iframe>
 
-## CV
-
-Full blown CV with details going back to undergraduate:
+Extended:
 
 <iframe
     src="https://docs.google.com/viewer?srcid=1McoKsL9wvar2EhDMLJTUTGlJ_-5HlW0Z&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
