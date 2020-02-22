@@ -10,21 +10,21 @@ image:
   feature: main-banner-2.jpg
 ---
 
-## Resume
+## Resume - One pager
 
 One pager:
 
 <iframe
-    src="https://docs.google.com/viewer?srcid=1iW74gwITDHM-J9bf5NTzsXbNsWHw4SSD&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
+    src="https://docs.google.com/viewer?srcid=1zQaYgqZ-kO3u1VCjrzCC_eISYEb85Lqf&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
     width="700" 
     height="600" 
     style="border: none;">
 </iframe>
 
-Extended:
+## Resume - Extended
 
 <iframe
-    src="https://docs.google.com/viewer?srcid=1McoKsL9wvar2EhDMLJTUTGlJ_-5HlW0Z&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
+    src="https://docs.google.com/viewer?srcid=195cpOL9E1UN8w8E70z_AFor4zPAX1hh6&pid=explorer&efh=false&a=v&chrome=false&embedded=true" 
     width="700" 
     height="600" 
     style="border: none;">
