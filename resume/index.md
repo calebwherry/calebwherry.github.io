@@ -16,7 +16,7 @@ Short, to the point one page resume for those "6 second flybys".
 
 <iframe
     src="/resume/John-Caleb-Wherry_Resume.pdf"
-    width="700"
+    width="100%"
     height="600"
     style="border: none;">
 </iframe>
@@ -27,7 +27,7 @@ Longer resume with all positions and details filled in along with other informat
 
 <iframe
     src="/resume/John-Caleb-Wherry_Resume-Extended.pdf"
-    width="700"
+    width="100%"
     height="600"
     style="border: none;">
 </iframe>
