@@ -10,8 +10,4 @@ image:
   feature: main-banner-2.jpg
 ---
 
-<iframe src="https://cloud.collectorz.com/meaganandcaleb/books"
-width="700"
-height="825"
-frameborder="1"
-seamless> </iframe>
+<div id="wdaefd78ba8aa7626f2f08fe6e67020e6"></div><script type="text/javascript" charset="UTF-8" src="https://www.librarything.com/widget_get.php?userid=meagan.and.caleb&theID=wdaefd78ba8aa7626f2f08fe6e67020e6"></script><noscript><a href="http://www.librarything.com/profile/meagan.and.caleb">My Library</a> at <a href="http://www.librarything.com">LibraryThing</a></noscript>
