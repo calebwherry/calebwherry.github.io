@@ -13,8 +13,6 @@ image:
 * Co-design for Next-Generation Heterogeneous Systems
 * Genetic Algorithms
 * Quantum Algorithms
-* Computational Complexity Theory
-* Quantum Information Theory
 
 ### Projects
 
