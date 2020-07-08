@@ -11,6 +11,6 @@ image:
 
 Welcome to my site! You will find various items here related to my research, career, and hobbies. I try and post as often as life permits on my blog [*Viva la Science*](blog) about lots of different topics: software, technology, physics, mathematics, etc. Feedback is always welcome so comment away!
 
-I am currently a Technical Lead & Senior Software Engineer at [Microsoft](http://www.microsoft.com) on Azure Compute. I was a graduate student in Computer Science at the Georgia Institute of Technology but am currently on hiatus with no plans to finish.
+I am currently a Technical Lead at [Microsoft](http://www.microsoft.com) on Azure Compute. I was a graduate student in Computer Science at the Georgia Institute of Technology but am currently on hiatus with no plans to finish.
 
 Feel free to contact me by any means from the left!
