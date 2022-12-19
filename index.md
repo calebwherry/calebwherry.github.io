@@ -11,4 +11,4 @@ image:
 
 Welcome to my site! You will find various items here related to my research, career, and hobbies. I try and post as often as life permits on my blog [*Viva la Science*](blog) about lots of different topics: software, technology, physics, mathematics, etc. Feedback is always welcome so comment away!
 
-I am currently a Director of Innovation at [BMC Software](https://www.bmc.com) (CTO Office, Innovation Labs). I was a graduate student in Computer Science at the Georgia Institute of Technology but am currently on hiatus with no plans to finish.
+I am currently a Principal Architect at [BMC Software](https://www.bmc.com) (CTO Office, Innovation Labs). I was a graduate student in Computer Science at the Georgia Institute of Technology but am currently on hiatus with no plans to finish.
