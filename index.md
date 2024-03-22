@@ -9,6 +9,6 @@ image:
   creditlink: #http://lewatonline.com/wp-content/uploads/2015/02/Slider-Final1-1900x500.jpg
 ---
 
-Welcome to my site! You will find various items here related to my research, career, and hobbies. I try and post as often as life permits on my blog [*Viva la Science*](blog) about lots of different topics: software, technology, physics, mathematics, etc. Feedback is always welcome so comment away!
+Welcome to my site! I used to be a lot more active here but have since backed away from it. Poke around it you like, there are blogs and resumes and research topics scattered (sometimes behind non-linked pages).
 
-I am currently a Principal Software Engineer at [Howso](https://www.howso.com). I was a graduate student in Computer Science at the Georgia Institute of Technology but am currently on hiatus with no plans to finish.
+I have a lot of different interests so feel free to hit up if we have overlap: software engineering principles, quantum computing, mathematics, reading, books, kayaking, food, etc.
